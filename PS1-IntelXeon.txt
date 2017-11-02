@@ -1,0 +1,2445 @@
+==========
+Sample no. 3 basic, k = 4, p = 1
+P0 (mmcex), Time: 0,07933 s., Entries: 33
+P0 (mmcex), Time: 0,13404 s., Entries: 593
+Solution - P0 (mmcex)
+Total time: 0,23748 s.
+P0 (deg), Time: 0,01480 s., Entries: 199
+P0 (mmcex), Time: 0,26015 s., Entries: 593
+Solution - P0 (mmcex)
+Total time: 0,30383 s.
+P0 (mmcex), Time: 0,07782 s., Entries: 33
+P0 (deg), Time: 2,49594 s., Entries: 303131
+Solution - P0 (deg)
+Total time: 2,59873 s.
+P0 (mmex), Time: 0,59678 s., Entries: 5
+P0 (dom), Time: 2,18809 s., Entries: 28
+Solution - P0 (dom)
+Total time: 2,80829 s.
+P0 (deg), Time: 0,01325 s., Entries: 199
+P0 (deg), Time: 2,75461 s., Entries: 303131
+Solution - P0 (deg)
+Total time: 2,80384 s.
+==========
+
+
+==========
+Sample no. 3 inverse, k = 3, p = 1
+P0 (deg), Time: 0,03779 s., Entries: 62
+Solution - P0 (deg)
+Total time: 0,04294 s.
+P0 (dom), Time: 0,80323 s., Entries: 16
+Solution - P0 (dom)
+Total time: 0,80869 s.
+P0 (dom), Time: 0,55398 s., Entries: 16
+Solution - P0 (dom)
+Total time: 0,55963 s.
+P0 (dom), Time: 0,77712 s., Entries: 16
+Solution - P0 (dom)
+Total time: 0,78284 s.
+P0 (mmcex), Time: 0,08873 s., Entries: 24
+Solution - P0 (mmcex)
+Total time: 0,09387 s.
+==========
+
+
+==========
+Sample no. 4 basic, k = 3, p = 1
+P0 (mmcex), Time: 0,01602 s., Entries: 3
+P0 (mmcex), Time: 0,03252 s., Entries: 16
+Solution - P0 (mmcex)
+Total time: 0,07361 s.
+P0 (deg), Time: 0,04744 s., Entries: 2147
+P0 (deg), Time: 0,00964 s., Entries: 1051
+Solution - P0 (deg)
+Total time: 0,07970 s.
+P0 (deg), Time: 0,03409 s., Entries: 2147
+P0 (mmcex), Time: 0,02614 s., Entries: 16
+Solution - P0 (mmcex)
+Total time: 0,08786 s.
+P0 (mmex), Time: 0,00666 s., Entries: 3
+P0 (deg), Time: 0,03038 s., Entries: 1051
+Solution - P0 (deg)
+Total time: 0,06923 s.
+P0 (dom), Time: 0,00703 s., Entries: 1
+P0 (dom), Time: 3,48404 s., Entries: 10
+Solution - P0 (dom)
+Total time: 3,51697 s.
+==========
+
+
+==========
+Sample no. 4 inverse, k = 4, p = 1
+P0 (mmex), Time: 0,35533 s., Entries: 35
+Solution - P0 (mmex)
+Total time: 0,36024 s.
+P0 (mmex), Time: 0,36923 s., Entries: 35
+Solution - P0 (mmex)
+Total time: 0,37461 s.
+P0 (mmex), Time: 0,40077 s., Entries: 35
+Solution - P0 (mmex)
+Total time: 0,40606 s.
+P0 (mmcex), Time: 0,08942 s., Entries: 58
+Solution - P0 (mmcex)
+Total time: 0,09460 s.
+P0 (mmcex), Time: 0,07858 s., Entries: 58
+Solution - P0 (mmcex)
+Total time: 0,08380 s.
+==========
+
+
+==========
+Sample no. 5 basic, k = 4, p = 1
+P0 (deg), Time: 0,14383 s., Entries: 1167
+Solution - P0 (deg)
+Total time: 0,14898 s.
+P0 (mmex), Time: 0,55480 s., Entries: 42
+Solution - P0 (mmex)
+Total time: 0,56030 s.
+P0 (dom), Time: 1,38643 s., Entries: 32
+Solution - P0 (dom)
+Total time: 1,39183 s.
+P0 (deg), Time: 0,13637 s., Entries: 1167
+Solution - P0 (deg)
+Total time: 0,14113 s.
+P0 (mmex), Time: 0,50485 s., Entries: 42
+Solution - P0 (mmex)
+Total time: 0,50982 s.
+==========
+
+
+==========
+Sample no. 5 inverse, k = 4, p = 1
+P0 (mmcex), Time: 1,29384 s., Entries: 381
+P0 (mmex), Time: 0,28860 s., Entries: 189
+P0 (mmcex), Time: 1,34953 s., Entries: 820
+Solution - P0 (mmcex)
+Total time: 2,97702 s.
+P0 (dom), Time: 85,94267 s., Entries: 48
+P0 (dom), Time: 92,64470 s., Entries: 48
+P0 (dom), Time: 765,46221 s., Entries: 2505
+Solution - P0 (dom)
+Total time: 944,07402 s.
+P0 (dom), Time: 58,76116 s., Entries: 48
+P0 (mmcex), Time: 1,23294 s., Entries: 379
+P0 (deg), Time: 0,06931 s., Entries: 3145
+Solution - P0 (deg)
+Total time: 60,09076 s.
+P0 (mmex), Time: 0,26120 s., Entries: 189
+P0 (dom), Time: 83,28386 s., Entries: 48
+P0 (dom), Time: 701,86343 s., Entries: 2505
+Solution - P0 (dom)
+Total time: 785,43415 s.
+P0 (mmex), Time: 0,25648 s., Entries: 189
+P0 (mmcex), Time: 1,31966 s., Entries: 379
+P0 (mmcex), Time: 1,33467 s., Entries: 820
+Solution - P0 (mmcex)
+Total time: 2,93567 s.
+==========
+
+
+==========
+Sample no. 6 basic, k = 3, p = 1
+P0 (mmex), Time: 0,03507 s., Entries: 20
+Solution - P0 (mmex)
+Total time: 0,04066 s.
+P0 (deg), Time: 0,03270 s., Entries: 27
+Solution - P0 (deg)
+Total time: 0,03755 s.
+P0 (dom), Time: 0,07198 s., Entries: 4
+Solution - P0 (dom)
+Total time: 0,07715 s.
+P0 (mmex), Time: 0,04848 s., Entries: 20
+Solution - P0 (mmex)
+Total time: 0,05603 s.
+P0 (mmex), Time: 0,03168 s., Entries: 20
+Solution - P0 (mmex)
+Total time: 0,03659 s.
+==========
+
+
+==========
+Sample no. 6 inverse, k = 3, p = 1
+P0 (dom), Time: 0,01572 s., Entries: 1
+P0 (mmcex), Time: 0,00727 s., Entries: 23
+P0 (mmex), Time: 0,01026 s., Entries: 35
+Solution - P0 (mmex)
+Total time: 0,06496 s.
+P0 (mmcex), Time: 0,02095 s., Entries: 35
+P0 (mmcex), Time: 0,01027 s., Entries: 23
+P0 (mmex), Time: 0,01054 s., Entries: 35
+Solution - P0 (mmex)
+Total time: 0,06808 s.
+P0 (deg), Time: 0,00577 s., Entries: 33
+P0 (mmcex), Time: 0,01176 s., Entries: 23
+P0 (mmcex), Time: 0,01639 s., Entries: 51
+Solution - P0 (mmcex)
+Total time: 0,06823 s.
+P0 (deg), Time: 0,00572 s., Entries: 33
+P0 (mmex), Time: 0,01533 s., Entries: 21
+P0 (dom), Time: 0,03449 s., Entries: 3
+Solution - P0 (dom)
+Total time: 0,09881 s.
+P0 (dom), Time: 0,01486 s., Entries: 1
+P0 (mmcex), Time: 0,00813 s., Entries: 23
+P0 (deg), Time: 0,00324 s., Entries: 43
+Solution - P0 (deg)
+Total time: 0,05654 s.
+==========
+
+
+==========
+Sample no. 7 basic, k = 4, p = 1
+P0 (dom), Time: 0,03022 s., Entries: 1
+P0 (dom), Time: 49,77762 s., Entries: 6397
+Solution - P0 (dom)
+Total time: 49,83503 s.
+P0 (deg), Time: 0,07941 s., Entries: 199
+P0 (dom), Time: 50,24401 s., Entries: 6397
+Solution - P0 (dom)
+Total time: 50,34802 s.
+P0 (mmex), Time: 0,04076 s., Entries: 5
+P0 (mmex), Time: 4,48600 s., Entries: 24580
+Solution - P0 (mmex)
+Total time: 4,55092 s.
+P0 (mmcex), Time: 0,14953 s., Entries: 33
+P0 (deg), Time: 0,02865 s., Entries: 610
+Solution - P0 (deg)
+Total time: 0,20574 s.
+P0 (mmcex), Time: 0,17593 s., Entries: 33
+P0 (mmcex), Time: 10,02201 s., Entries: 43070
+Solution - P0 (mmcex)
+Total time: 10,22223 s.
+==========
+
+
+==========
+Sample no. 7 inverse, k = 4, p = 1
+P0 (mmcex), Time: 0,25292 s., Entries: 139
+Solution - P0 (mmcex)
+Total time: 0,25799 s.
+P0 (deg), Time: 0,32477 s., Entries: 20013
+Solution - P0 (deg)
+Total time: 0,32953 s.
+P0 (dom), Time: 5,59503 s., Entries: 548
+Solution - P0 (dom)
+Total time: 5,60009 s.
+P0 (mmcex), Time: 0,25161 s., Entries: 139
+Solution - P0 (mmcex)
+Total time: 0,25682 s.
+P0 (dom), Time: 5,53826 s., Entries: 548
+Solution - P0 (dom)
+Total time: 5,54321 s.
+==========
+
+
+==========
+Sample no. 3 basic, k = 4, p = 8
+P0 (dom), Time: 0,42397 s., Entries: 1
+P4 (mmex), Time: 2,04489 s., Entries: 172
+P6 (deg), Time: 2,04309 s., Entries: 389274
+P1 (deg), Time: 2,04759 s., Entries: 166108
+P2 (deg), Time: 2,04721 s., Entries: 181430
+P3 (dom), Time: 2,09086 s., Entries: 6
+P7 (dom), Time: 2,09289 s., Entries: 6
+P5 (mmex), Time: 2,12698 s., Entries: 192
+Solution - P4 (mmex)
+Total time: 2,13429 s.
+P0 (mmcex), Time: 0,14822 s., Entries: 33
+P4 (deg), Time: 1,56108 s., Entries: 197095
+P3 (mmex), Time: 1,56249 s., Entries: 63
+P6 (mmex), Time: 1,56661 s., Entries: 91
+P7 (mmex), Time: 1,56802 s., Entries: 399
+P2 (dom), Time: 1,57344 s., Entries: 3
+P1 (dom), Time: 1,65723 s., Entries: 5
+P5 (dom), Time: 1,70001 s., Entries: 5
+Solution - P4 (deg)
+Total time: 1,70732 s.
+P3 (mmcex), Time: 0,27111 s., Entries: 232
+P2 (deg), Time: 0,24283 s., Entries: 22690
+P6 (deg), Time: 0,24084 s., Entries: 16274
+P1 (mmcex), Time: 0,24455 s., Entries: 389
+P0 (dom), Time: 0,46577 s., Entries: 1
+P4 (mmex), Time: 0,63850 s., Entries: 3
+P7 (dom), Time: 0,67447 s., Entries: 2
+P5 (mmex), Time: 0,75819 s., Entries: 4
+Solution - P3 (mmcex)
+Total time: 0,76489 s.
+P0 (dom), Time: 0,43962 s., Entries: 1
+P1 (mmex), Time: 1,93768 s., Entries: 54
+P6 (deg), Time: 1,93512 s., Entries: 384894
+P7 (deg), Time: 1,93469 s., Entries: 212703
+P5 (deg), Time: 1,93587 s., Entries: 389312
+P4 (mmex), Time: 1,93759 s., Entries: 103
+P3 (dom), Time: 1,94936 s., Entries: 6
+P2 (mmex), Time: 1,97585 s., Entries: 84
+Solution - P1 (mmex)
+Total time: 1,98028 s.
+P0 (mmcex), Time: 0,13489 s., Entries: 33
+P3 (mmcex), Time: 0,27377 s., Entries: 182
+P6 (mmcex), Time: 0,27172 s., Entries: 201
+P7 (mmcex), Time: 0,27175 s., Entries: 175
+P1 (mmcex), Time: 0,27564 s., Entries: 314
+P2 (mmex), Time: 0,47120 s., Entries: 3
+P4 (dom), Time: 0,53200 s., Entries: 2
+P5 (dom), Time: 0,56980 s., Entries: 2
+Solution - P6 (mmcex)
+Total time: 0,57639 s.
+==========
+
+
+==========
+Sample no. 3 inverse, k = 3, p = 8
+P4 (mmex), Time: 0,01631 s., Entries: 4
+P7 (dom), Time: 0,01983 s., Entries: 1
+P5 (deg), Time: 0,03955 s., Entries: 40
+P2 (deg), Time: 0,04077 s., Entries: 62
+P0 (mmex), Time: 0,02012 s., Entries: 4
+P6 (mmcex), Time: 0,04941 s., Entries: 4
+P1 (dom), Time: 0,53233 s., Entries: 1
+P3 (dom), Time: 0,56340 s., Entries: 1
+Solution - P5 Solution - P2 (deg)
+Total time: 0,57219 s.
+P2 (mmex), Time: 0,01472 s., Entries: 4
+P0 (deg), Time: 0,04764 s., Entries: 62
+P4 (mmex), Time: 0,01291 s., Entries: 4
+P7 (deg), Time: 0,00492 s., Entries: 34
+P1 (mmcex), Time: 0,09344 s., Entries: 5
+P3 (mmcex), Time: 0,09087 s., Entries: 5
+P6 (mmcex), Time: 0,08811 s., Entries: 4
+P5 (dom), Time: 0,48095 s., Entries: 1
+Solution - P0 (deg)
+Total time: 0,49449 s.
+P3 (deg), Time: 0,04631 s., Entries: 40
+P1 (mmex), Time: 0,01925 s., Entries: 4
+P7 (mmex), Time: 0,01407 s., Entries: 4
+P4 (mmex), Time: 0,01751 s., Entries: 4
+P2 (deg), Time: 0,01378 s., Entries: 51
+P6 (deg), Time: 0,01269 s., Entries: 92
+P0 (dom), Time: 0,47680 s., Entries: 1
+P5 (dom), Time: 0,53419 s., Entries: 1
+Solution - P3 (deg)
+Total time: 0,54247 s.
+P7 (deg), Time: 0,00885 s., Entries: 81
+P4 (mmex), Time: 0,01495 s., Entries: 4
+P0 (mmex), Time: 0,02041 s., Entries: 6
+P3 (deg), Time: 0,04886 s., Entries: 40
+P2 (deg), Time: 0,01404 s., Entries: 47
+P1 (mmcex), Time: 0,07152 s., Entries: 5
+P6 (mmcex), Time: 0,06922 s., Entries: 4
+P5 (dom), Time: 0,51677 s., Entries: 1
+Solution - P3 (deg)
+Total time: 0,53084 s.
+P1 (mmex), Time: 0,03901 s., Entries: 27
+P7 (dom), Time: 0,02267 s., Entries: 1
+P4 (mmex), Time: 0,04912 s., Entries: 33
+P6 (mmcex), Time: 0,09768 s., Entries: 4
+P2 (mmcex), Time: 0,09922 s., Entries: 5
+P3 (mmcex), Time: 0,09917 s., Entries: 5
+P0 (dom), Time: 0,49808 s., Entries: 1
+P5 (dom), Time: 0,55134 s., Entries: 1
+Solution - P4 (mmex)
+Total time: 0,56198 s.
+==========
+
+
+==========
+Sample no. 4 basic, k = 3, p = 8
+P6 (mmex), Time: 0,04512 s., Entries: 45
+P7 (mmcex), Time: 0,04509 s., Entries: 9
+P5 (deg), Time: 0,06348 s., Entries: 1069
+P1 (mmcex), Time: 0,03794 s., Entries: 3
+P2 (mmex), Time: 0,04633 s., Entries: 39
+P0 (deg), Time: 0,03907 s., Entries: 715
+P4 (dom), Time: 1,16680 s., Entries: 2
+P3 (dom), Time: 1,17657 s., Entries: 2
+Solution - P5 (deg)
+Total time: 1,18255 s.
+P0 (mmcex), Time: 0,04102 s., Entries: 3
+P1 (dom), Time: 0,01541 s., Entries: 1
+P5 (mmcex), Time: 0,06275 s., Entries: 11
+P3 (deg), Time: 0,06323 s., Entries: 1051
+P6 (mmex), Time: 0,06146 s., Entries: 168
+P7 (mmcex), Time: 0,06451 s., Entries: 11
+P4 (dom), Time: 1,22429 s., Entries: 2
+P2 (dom), Time: 1,22647 s., Entries: 2
+Solution - P3 (deg)
+Total time: 1,23124 s.
+P1 (dom), Time: 0,01235 s., Entries: 1
+P0 (mmex), Time: 0,00429 s., Entries: 3
+P6 (deg), Time: 0,04888 s., Entries: 1203
+P4 (deg), Time: 0,04933 s., Entries: 1069
+P2 (mmcex), Time: 0,05122 s., Entries: 9
+P3 (mmex), Time: 0,05218 s., Entries: 84
+P5 (dom), Time: 1,18082 s., Entries: 2
+P7 (dom), Time: 1,81311 s., Entries: 2
+Solution - P4 (deg)
+Total time: 1,82107 s.
+P1 (mmcex), Time: 0,03623 s., Entries: 3
+P5 (deg), Time: 0,06296 s., Entries: 1069
+P0 (deg), Time: 0,03733 s., Entries: 665
+P4 (mmex), Time: 0,04901 s., Entries: 59
+P7 (deg), Time: 0,04767 s., Entries: 1080
+P2 (deg), Time: 0,05015 s., Entries: 932
+P3 (dom), Time: 1,20299 s., Entries: 2
+P6 (dom), Time: 1,81184 s., Entries: 2
+Solution - P5 (deg)
+Total time: 1,81879 s.
+P1 (dom), Time: 0,01093 s., Entries: 1
+P7 (mmex), Time: 0,04646 s., Entries: 105
+P6 (mmcex), Time: 0,04605 s., Entries: 9
+P3 (deg), Time: 0,04700 s., Entries: 932
+P5 (deg), Time: 0,04662 s., Entries: 1069
+P0 (mmex), Time: 0,01071 s., Entries: 3
+P2 (dom), Time: 1,14750 s., Entries: 2
+P4 (dom), Time: 1,15264 s., Entries: 2
+Solution - P5 (deg)
+Total time: 1,15851 s.
+==========
+
+
+==========
+Sample no. 4 inverse, k = 4, p = 8
+P5 (mmcex), Time: 0,10674 s., Entries: 11
+P7 (mmcex), Time: 0,08295 s., Entries: 7
+P3 (deg), Time: 0,08286 s., Entries: 257
+P1 (mmex), Time: 0,43840 s., Entries: 35
+P6 (dom), Time: 0,43862 s., Entries: 1
+P2 (mmex), Time: 0,43951 s., Entries: 23
+P0 (dom), Time: 0,49155 s., Entries: 2
+P4 (dom), Time: 0,49096 s., Entries: 2
+Solution - P1 (mmex)
+Total time: 0,49616 s.
+P5 (deg), Time: 0,08075 s., Entries: 5
+P2 (deg), Time: 0,06649 s., Entries: 159
+P0 (deg), Time: 0,09519 s., Entries: 172
+P6 (mmcex), Time: 0,06951 s., Entries: 7
+P7 (deg), Time: 0,08543 s., Entries: 5
+P3 (mmex), Time: 0,22365 s., Entries: 4
+P4 (mmex), Time: 0,22424 s., Entries: 4
+P1 (dom), Time: 0,37011 s., Entries: 1
+Solution - P0 (deg)
+Total time: 0,37464 s.
+P5 (deg), Time: 0,08661 s., Entries: 329
+P6 (mmcex), Time: 0,10284 s., Entries: 11
+P3 (deg), Time: 0,07740 s., Entries: 257
+P7 (mmex), Time: 0,22127 s., Entries: 7
+P1 (mmex), Time: 0,41904 s., Entries: 35
+P2 (mmex), Time: 0,41945 s., Entries: 19
+P0 (dom), Time: 0,43535 s., Entries: 2
+P4 (dom), Time: 0,44037 s., Entries: 2
+Solution - P1 (mmex)
+Total time: 0,44580 s.
+P5 (mmcex), Time: 0,05906 s., Entries: 4
+P3 (mmcex), Time: 0,06120 s., Entries: 4
+P0 (mmcex), Time: 0,06295 s., Entries: 4
+P7 (deg), Time: 0,06668 s., Entries: 5
+P2 (deg), Time: 0,05957 s., Entries: 142
+P1 (deg), Time: 0,08556 s., Entries: 172
+P6 (mmcex), Time: 0,05920 s., Entries: 4
+P4 (mmex), Time: 0,18905 s., Entries: 4
+Solution - P1 (deg)
+Total time: 0,19503 s.
+P6 (deg), Time: 0,09252 s., Entries: 473
+P3 (mmcex), Time: 0,13098 s., Entries: 11
+P0 (mmcex), Time: 0,15491 s., Entries: 58
+P7 (mmex), Time: 0,22795 s., Entries: 4
+P2 (mmex), Time: 0,23967 s., Entries: 4
+P4 (mmex), Time: 0,23930 s., Entries: 4
+P5 (dom), Time: 0,32318 s., Entries: 1
+P1 (dom), Time: 0,32662 s., Entries: 1
+Solution - P0 (mmcex)
+Total time: 0,33106 s.
+==========
+
+
+==========
+Sample no. 5 basic, k = 4, p = 8
+P7 (dom), Time: 0,17981 s., Entries: 1
+P6 (mmcex), Time: 0,24649 s., Entries: 23
+P4 (mmcex), Time: 0,26119 s., Entries: 55
+P1 (mmcex), Time: 0,26980 s., Entries: 55
+P2 (deg), Time: 0,40381 s., Entries: 38081
+P3 (dom), Time: 0,41035 s., Entries: 1
+P5 (mmex), Time: 0,56411 s., Entries: 34
+P0 (mmex), Time: 0,56816 s., Entries: 42
+Solution - P0 (mmex)
+Total time: 0,57141 s.
+P3 (deg), Time: 0,09686 s., Entries: 83
+P5 (mmcex), Time: 0,18858 s., Entries: 23
+P2 (mmcex), Time: 0,21331 s., Entries: 55
+P7 (mmex), Time: 0,26273 s., Entries: 9
+P1 (deg), Time: 0,34252 s., Entries: 34157
+P6 (dom), Time: 0,38176 s., Entries: 1
+P0 (dom), Time: 1,04808 s., Entries: 32
+P4 (mmex), Time: 1,06166 s., Entries: 242
+Solution - P0 (dom)
+Total time: 1,06820 s.
+P6 (deg), Time: 0,11366 s., Entries: 173
+P5 (mmcex), Time: 0,16214 s., Entries: 23
+P1 (mmcex), Time: 0,18277 s., Entries: 55
+P7 (mmex), Time: 0,31670 s., Entries: 9
+P2 (deg), Time: 0,39611 s., Entries: 38081
+P3 (dom), Time: 0,40767 s., Entries: 1
+P0 (dom), Time: 1,07411 s., Entries: 32
+P4 (mmex), Time: 1,10933 s., Entries: 242
+Solution - P0 (dom)
+Total time: 1,11575 s.
+P2 (mmcex), Time: 0,21019 s., Entries: 55
+P1 (mmcex), Time: 0,21187 s., Entries: 55
+P7 (mmex), Time: 0,37219 s., Entries: 9
+P5 (dom), Time: 0,43032 s., Entries: 1
+P6 (dom), Time: 0,43033 s., Entries: 1
+P3 (mmex), Time: 0,66241 s., Entries: 69
+P0 (dom), Time: 1,08807 s., Entries: 32
+P4 (mmex), Time: 1,10364 s., Entries: 242
+Solution - P0 (dom)
+Total time: 1,10950 s.
+P5 (mmcex), Time: 0,17597 s., Entries: 23
+P7 (dom), Time: 0,15545 s., Entries: 1
+P6 (mmcex), Time: 0,17707 s., Entries: 23
+P2 (deg), Time: 0,37392 s., Entries: 38081
+P0 (mmex), Time: 0,45586 s., Entries: 42
+P3 (mmex), Time: 0,46640 s., Entries: 42
+P4 (dom), Time: 0,47526 s., Entries: 2
+P1 (dom), Time: 0,48114 s., Entries: 2
+Solution - P0 (mmex)
+Total time: 0,48527 s.
+==========
+
+
+==========
+Sample no. 5 inverse, k = 4, p = 8
+P1 (mmex), Time: 0,29365 s., Entries: 19
+P0 (deg), Time: 0,28457 s., Entries: 17621
+P2 (mmex), Time: 0,41239 s., Entries: 189
+P5 (mmex), Time: 0,75837 s., Entries: 920
+P6 (mmcex), Time: 0,76310 s., Entries: 72
+P7 (mmcex), Time: 0,77343 s., Entries: 62
+P4 (dom), Time: 14,63657 s., Entries: 1
+P3 (dom), Time: 60,75504 s., Entries: 2
+Solution - P5 (mmex)
+Total time: 60,76105 s.
+P0 (deg), Time: 0,12884 s., Entries: 3800
+P6 (deg), Time: 0,14918 s., Entries: 2423
+P5 (mmex), Time: 0,14350 s., Entries: 6
+P7 (mmcex), Time: 0,18765 s., Entries: 7
+P3 (mmcex), Time: 0,19205 s., Entries: 7
+P1 (mmcex), Time: 0,19369 s., Entries: 7
+P4 (mmex), Time: 0,19716 s., Entries: 9
+P2 (mmex), Time: 0,19943 s., Entries: 9
+Solution - P6 (deg)
+Total time: 0,20471 s.
+P7 (deg), Time: 0,13455 s., Entries: 2087
+P1 (mmex), Time: 0,14649 s., Entries: 9
+P2 (deg), Time: 0,13698 s., Entries: 3192
+P3 (deg), Time: 0,13653 s., Entries: 2432
+P5 (deg), Time: 0,15790 s., Entries: 2379
+P4 (mmcex), Time: 0,17909 s., Entries: 7
+P0 (dom), Time: 13,43382 s., Entries: 1
+P6 (dom), Time: 66,45450 s., Entries: 2
+Solution - P5 (deg)
+Total time: 66,46119 s.
+P2 (deg), Time: 0,28361 s., Entries: 16171
+P1 (deg), Time: 0,31628 s., Entries: 17621
+P5 (mmex), Time: 0,74010 s., Entries: 920
+P3 (mmcex), Time: 0,74333 s., Entries: 72
+P4 (dom), Time: 14,90015 s., Entries: 1
+P0 (dom), Time: 15,03871 s., Entries: 1
+P6 (dom), Time: 67,68264 s., Entries: 2
+P7 (dom), Time: 100,30497 s., Entries: 2
+Solution - P5 (mmex)
+Total time: 100,31257 s.
+P1 (deg), Time: 0,26923 s., Entries: 17621
+P0 (mmcex), Time: 0,27558 s., Entries: 9
+P5 (mmex), Time: 0,69935 s., Entries: 920
+P6 (mmcex), Time: 0,71092 s., Entries: 74
+P2 (dom), Time: 15,01498 s., Entries: 1
+P4 (dom), Time: 15,01500 s., Entries: 1
+P3 (dom), Time: 68,01749 s., Entries: 2
+P7 (dom), Time: 102,84168 s., Entries: 2
+Solution - P5 (mmex)
+Total time: 102,84905 s.
+==========
+
+
+==========
+Sample no. 6 basic, k = 3, p = 8
+P5 (mmex), Time: 0,00976 s., Entries: 4
+P7 (mmcex), Time: 0,00581 s., Entries: 4
+P6 (mmex), Time: 0,00823 s., Entries: 4
+P0 (deg), Time: 0,03066 s., Entries: 27
+P2 (deg), Time: 0,00172 s., Entries: 13
+P4 (dom), Time: 0,03247 s., Entries: 1
+P3 (dom), Time: 0,03287 s., Entries: 1
+P1 (dom), Time: 0,03676 s., Entries: 1
+Solution - P0 (deg)
+Total time: 0,04071 s.
+P2 (deg), Time: 0,00203 s., Entries: 13
+P7 (mmcex), Time: 0,00961 s., Entries: 7
+P1 (dom), Time: 0,03402 s., Entries: 1
+P0 (mmex), Time: 0,03893 s., Entries: 20
+P3 (mmcex), Time: 0,00476 s., Entries: 4
+P4 (mmcex), Time: 0,01146 s., Entries: 11
+P5 (dom), Time: 0,02511 s., Entries: 1
+P6 (dom), Time: 0,00924 s., Entries: 1
+Solution - P0 (mmex)
+Total time: 0,04399 s.
+P7 (mmcex), Time: 0,00889 s., Entries: 6
+P4 (mmcex), Time: 0,00969 s., Entries: 7
+P0 (mmex), Time: 0,04093 s., Entries: 20
+P1 (mmcex), Time: 0,02171 s., Entries: 16
+P2 (dom), Time: 0,02149 s., Entries: 1
+P3 (mmex), Time: 0,01927 s., Entries: 21
+P5 (deg), Time: 0,00477 s., Entries: 19
+P6 (dom), Time: 0,00798 s., Entries: 1
+Solution - P0 (mmex)
+Total time: 0,04596 s.
+P3 (mmcex), Time: 0,01134 s., Entries: 4
+P1 (mmcex), Time: 0,01134 s., Entries: 4
+P7 (dom), Time: 0,01077 s., Entries: 1
+P2 (deg), Time: 0,00260 s., Entries: 13
+P0 (deg), Time: 0,03122 s., Entries: 27
+P5 (deg), Time: 0,00375 s., Entries: 19
+P6 (mmcex), Time: 0,00864 s., Entries: 4
+P4 (mmex), Time: 0,01371 s., Entries: 4
+Solution - P0 (deg)
+Total time: 0,03618 s.
+P7 (dom), Time: 0,00370 s., Entries: 1
+P4 (deg), Time: 0,00364 s., Entries: 19
+P5 (mmex), Time: 0,00662 s., Entries: 4
+P6 (mmcex), Time: 0,00524 s., Entries: 4
+P3 (deg), Time: 0,00331 s., Entries: 13
+P0 (dom), Time: 0,03476 s., Entries: 1
+P1 (deg), Time: 0,03726 s., Entries: 27
+P2 (dom), Time: 0,02534 s., Entries: 1
+Solution - P1 (deg)
+Total time: 0,04312 s.
+==========
+
+
+==========
+Sample no. 6 inverse, k = 3, p = 8
+P1 (deg), Time: 0,00419 s., Entries: 33
+P2 (dom), Time: 0,02312 s., Entries: 1
+P4 (mmcex), Time: 0,00595 s., Entries: 4
+P5 (dom), Time: 0,02075 s., Entries: 1
+P3 (deg), Time: 0,00334 s., Entries: 33
+P6 (mmcex), Time: 0,03160 s., Entries: 51
+P0 (mmex), Time: 0,01063 s., Entries: 8
+P7 (dom), Time: 0,03933 s., Entries: 2
+Solution - P6 (mmcex)
+Total time: 0,05850 s.
+P0 (mmcex), Time: 0,03025 s., Entries: 27
+P7 (mmcex), Time: 0,03747 s., Entries: 51
+P5 (deg), Time: 0,00602 s., Entries: 33
+P4 (mmex), Time: 0,01073 s., Entries: 2
+P3 (dom), Time: 0,03098 s., Entries: 1
+P1 (mmex), Time: 0,02918 s., Entries: 21
+P2 (dom), Time: 0,03278 s., Entries: 1
+P6 (dom), Time: 0,05429 s., Entries: 2
+Solution - P7 (mmcex)
+Total time: 0,06230 s.
+P7 (deg), Time: 0,02711 s., Entries: 43
+P4 (mmcex), Time: 0,00578 s., Entries: 4
+P2 (deg), Time: 0,00686 s., Entries: 31
+P5 (deg), Time: 0,00325 s., Entries: 33
+P3 (mmex), Time: 0,00696 s., Entries: 2
+P1 (mmcex), Time: 0,00908 s., Entries: 5
+P0 (dom), Time: 0,02223 s., Entries: 1
+P6 (dom), Time: 0,03396 s., Entries: 2
+Solution - P7 (deg)
+Total time: 0,04035 s.
+P6 (mmcex), Time: 0,02453 s., Entries: 23
+P2 (mmcex), Time: 0,00987 s., Entries: 5
+P4 (mmcex), Time: 0,00983 s., Entries: 4
+P1 (dom), Time: 0,02951 s., Entries: 1
+P0 (deg), Time: 0,00749 s., Entries: 33
+P5 (mmex), Time: 0,00961 s., Entries: 2
+P3 (deg), Time: 0,00341 s., Entries: 33
+P7 (mmex), Time: 0,03905 s., Entries: 35
+Solution - P7 (mmex)
+Total time: 0,04877 s.
+P0 (deg), Time: 0,00756 s., Entries: 33
+P2 (dom), Time: 0,02181 s., Entries: 1
+P5 (dom), Time: 0,02315 s., Entries: 1
+P4 (deg), Time: 0,00334 s., Entries: 33
+P3 (mmex), Time: 0,00639 s., Entries: 2
+P7 (mmcex), Time: 0,00585 s., Entries: 6
+P6 (deg), Time: 0,03712 s., Entries: 43
+P1 (mmex), Time: 0,00841 s., Entries: 2
+Solution - P6 (deg)
+Total time: 0,04639 s.
+==========
+
+
+==========
+Sample no. 7 basic, k = 4, p = 8
+P0 (mmcex), Time: 0,09681 s., Entries: 9
+P3 (mmcex), Time: 0,09398 s., Entries: 14
+P4 (mmcex), Time: 0,09408 s., Entries: 12
+P6 (deg), Time: 0,10173 s., Entries: 969
+P2 (mmex), Time: 0,08078 s., Entries: 3
+P7 (mmcex), Time: 0,09225 s., Entries: 16
+P1 (dom), Time: 0,55585 s., Entries: 2
+P5 (dom), Time: 0,69793 s., Entries: 2
+Solution - P6 (deg)
+Total time: 0,70569 s.
+P5 (deg), Time: 0,09652 s., Entries: 1084
+P3 (deg), Time: 0,09710 s., Entries: 974
+P7 (deg), Time: 0,09519 s., Entries: 910
+P4 (deg), Time: 0,12054 s., Entries: 566
+P0 (mmcex), Time: 0,11199 s., Entries: 10
+P1 (mmex), Time: 0,09918 s., Entries: 3
+P2 (deg), Time: 0,09722 s., Entries: 496
+P6 (dom), Time: 0,68555 s., Entries: 2
+Solution - P4 (deg)
+Total time: 0,69513 s.
+P0 (mmex), Time: 0,13438 s., Entries: 5
+P1 (mmcex), Time: 10,28973 s., Entries: 43070
+P7 (deg), Time: 10,28643 s., Entries: 101259
+P6 (mmex), Time: 10,28865 s., Entries: 59542
+P4 (dom), Time: 10,28952 s., Entries: 842
+P3 (dom), Time: 10,29280 s., Entries: 906
+P5 (dom), Time: 10,30602 s., Entries: 598
+P2 (dom), Time: 10,36733 s., Entries: 502
+Solution - P1 (mmcex)
+Total time: 10,37553 s.
+P2 (deg), Time: 0,08265 s., Entries: 513
+P0 (deg), Time: 0,08725 s., Entries: 135
+P3 (mmcex), Time: 0,10316 s., Entries: 14
+P4 (deg), Time: 0,10416 s., Entries: 566
+P7 (mmcex), Time: 0,10238 s., Entries: 16
+P5 (mmcex), Time: 0,10555 s., Entries: 14
+P6 (mmcex), Time: 0,10701 s., Entries: 14
+P1 (dom), Time: 0,56304 s., Entries: 2
+Solution - P4 (deg)
+Total time: 0,57032 s.
+P4 (mmcex), Time: 0,14501 s., Entries: 32
+P0 (mmcex), Time: 0,15141 s., Entries: 14
+P7 (mmcex), Time: 0,14311 s., Entries: 36
+P3 (deg), Time: 0,16500 s., Entries: 2665
+P6 (mmex), Time: 0,20141 s., Entries: 8
+P5 (mmex), Time: 0,20761 s., Entries: 8
+P1 (dom), Time: 0,55910 s., Entries: 2
+P2 (dom), Time: 0,58924 s., Entries: 2
+Solution - P3 (deg)
+Total time: 0,59627 s.
+==========
+
+
+==========
+Sample no. 7 inverse, k = 4, p = 8
+P7 (dom), Time: 0,33254 s., Entries: 1
+P0 (mmcex), Time: 0,36881 s., Entries: 139
+P5 (mmex), Time: 0,36440 s., Entries: 260
+P1 (mmex), Time: 0,36314 s., Entries: 140
+P6 (mmex), Time: 0,35515 s., Entries: 324
+P3 (mmex), Time: 0,36827 s., Entries: 262
+P4 (mmex), Time: 0,36731 s., Entries: 161
+P2 (dom), Time: 0,70605 s., Entries: 1
+Solution - P0 (mmcex)
+Total time: 0,71163 s.
+P7 (deg), Time: 0,09669 s., Entries: 15
+P4 (mmcex), Time: 0,37462 s., Entries: 108
+P6 (mmex), Time: 0,37408 s., Entries: 780
+P0 (mmex), Time: 0,38037 s., Entries: 255
+P1 (mmcex), Time: 0,37938 s., Entries: 139
+P5 (mmex), Time: 0,37518 s., Entries: 609
+P3 (dom), Time: 0,63543 s., Entries: 1
+P2 (dom), Time: 0,70906 s., Entries: 1
+Solution - P1 (mmcex)
+Total time: 0,71468 s.
+P7 (dom), Time: 0,31035 s., Entries: 1
+P6 (mmcex), Time: 0,31213 s., Entries: 37
+P0 (mmcex), Time: 0,38152 s., Entries: 139
+P3 (mmex), Time: 0,37791 s., Entries: 964
+P5 (dom), Time: 0,53469 s., Entries: 1
+P2 (dom), Time: 0,65321 s., Entries: 1
+P1 (dom), Time: 0,66509 s., Entries: 1
+P4 (dom), Time: 0,67900 s., Entries: 1
+Solution - P0 (mmcex)
+Total time: 0,68770 s.
+P7 (deg), Time: 0,11968 s., Entries: 15
+P3 (mmex), Time: 0,62974 s., Entries: 2363
+P4 (deg), Time: 0,62767 s., Entries: 25712
+P6 (deg), Time: 0,62595 s., Entries: 19633
+P5 (mmex), Time: 0,62731 s., Entries: 2161
+P1 (deg), Time: 0,63126 s., Entries: 20013
+P2 (mmex), Time: 0,63038 s., Entries: 641
+P0 (dom), Time: 0,80808 s., Entries: 1
+Solution - P1 (deg)
+Total time: 0,81167 s.
+P7 (dom), Time: 0,33310 s., Entries: 1
+P6 (mmcex), Time: 0,30320 s., Entries: 37
+P1 (deg), Time: 0,39973 s., Entries: 9924
+P5 (deg), Time: 0,39508 s., Entries: 8464
+P3 (mmex), Time: 0,39869 s., Entries: 772
+P4 (deg), Time: 0,39860 s., Entries: 11692
+P0 (mmcex), Time: 0,40097 s., Entries: 139
+P2 (mmex), Time: 0,40556 s., Entries: 321
+Solution - P0 (mmcex)
+Total time: 0,41128 s.
+==========
+
+
+==========
+Sample no. 3 basic, k = 4, p = 12
+P0 (deg), Time: 0,02869 s., Entries: 199
+P2 (deg), Time: 0,30867 s., Entries: 28912
+P10 (mmcex), Time: 0,30290 s., Entries: 201
+P6 (deg), Time: 0,30674 s., Entries: 20008
+P3 (mmcex), Time: 0,30892 s., Entries: 261
+P11 (mmcex), Time: 0,30343 s., Entries: 124
+P4 (mmcex), Time: 0,30975 s., Entries: 257
+P1 (dom), Time: 0,48665 s., Entries: 1
+P8 (mmex), Time: 0,56804 s., Entries: 3
+P5 (dom), Time: 0,61729 s., Entries: 2
+P7 (dom), Time: 0,65519 s., Entries: 2
+P9 (mmex), Time: 0,69294 s., Entries: 4
+Solution - P10 (mmcex)
+Total time: 0,70395 s.
+P1 (mmcex), Time: 0,15669 s., Entries: 33
+P6 (deg), Time: 0,24137 s., Entries: 9520
+P9 (mmcex), Time: 0,23447 s., Entries: 142
+P2 (deg), Time: 0,24313 s., Entries: 11371
+P5 (deg), Time: 0,24153 s., Entries: 12435
+P10 (mmcex), Time: 0,23396 s., Entries: 201
+P4 (mmcex), Time: 0,24317 s., Entries: 259
+P0 (mmex), Time: 0,36481 s., Entries: 2
+P8 (dom), Time: 0,57365 s., Entries: 2
+P3 (dom), Time: 0,57966 s., Entries: 2
+P7 (mmex), Time: 0,58492 s., Entries: 4
+P11 (dom), Time: 0,64756 s., Entries: 2
+Solution - P10 (mmcex)
+Total time: 0,66248 s.
+P0 (dom), Time: 0,50978 s., Entries: 1
+P1 (mmex), Time: 0,72135 s., Entries: 4
+P6 (deg), Time: 2,20088 s., Entries: 257117
+P3 (mmex), Time: 2,20240 s., Entries: 54
+P2 (deg), Time: 2,20259 s., Entries: 159309
+P5 (mmex), Time: 2,20602 s., Entries: 84
+P11 (mmex), Time: 2,20204 s., Entries: 866
+P8 (mmex), Time: 2,21080 s., Entries: 144
+P9 (mmex), Time: 2,22062 s., Entries: 176
+P7 (dom), Time: 2,24403 s., Entries: 7
+P4 (dom), Time: 2,25161 s., Entries: 8
+P10 (dom), Time: 2,31612 s., Entries: 7
+Solution - P3 (mmex)
+Total time: 2,32376 s.
+P1 (deg), Time: 0,02634 s., Entries: 199
+P0 (mmcex), Time: 0,04045 s., Entries: 7
+P8 (deg), Time: 0,28952 s., Entries: 34475
+P7 (mmcex), Time: 0,29059 s., Entries: 232
+P2 (mmcex), Time: 0,29433 s., Entries: 270
+P4 (mmex), Time: 0,56108 s., Entries: 3
+P5 (dom), Time: 0,61087 s., Entries: 2
+P3 (dom), Time: 0,61972 s., Entries: 2
+P6 (mmex), Time: 0,63736 s., Entries: 4
+P10 (dom), Time: 0,64539 s., Entries: 2
+P9 (dom), Time: 0,66509 s., Entries: 2
+P11 (dom), Time: 0,69262 s., Entries: 2
+Solution - P7 (mmcex)
+Total time: 0,70833 s.
+P0 (deg), Time: 0,02598 s., Entries: 199
+P11 (deg), Time: 0,33163 s., Entries: 15885
+P7 (deg), Time: 0,33430 s., Entries: 17615
+P8 (deg), Time: 0,33410 s., Entries: 19454
+P9 (mmcex), Time: 0,33237 s., Entries: 215
+P2 (deg), Time: 0,33869 s., Entries: 19815
+P1 (dom), Time: 0,49620 s., Entries: 1
+P4 (mmex), Time: 0,57509 s., Entries: 3
+P5 (dom), Time: 0,64695 s., Entries: 2
+P3 (dom), Time: 0,65301 s., Entries: 2
+P6 (dom), Time: 0,69224 s., Entries: 2
+P10 (mmex), Time: 0,71174 s., Entries: 4
+Solution - P9 (mmcex)
+Total time: 0,72263 s.
+==========
+
+
+==========
+Sample no. 3 inverse, k = 3, p = 12
+P11 (mmex), Time: 0,01606 s., Entries: 4
+P9 (dom), Time: 0,02381 s., Entries: 1
+P4 (deg), Time: 0,04550 s., Entries: 40
+P3 (deg), Time: 0,01518 s., Entries: 33
+P2 (mmex), Time: 0,01887 s., Entries: 4
+P10 (deg), Time: 0,00999 s., Entries: 101
+P5 (mmex), Time: 0,02303 s., Entries: 4
+P0 (mmcex), Time: 0,09429 s., Entries: 5
+P8 (mmcex), Time: 0,09028 s., Entries: 4
+P6 (mmcex), Time: 0,09288 s., Entries: 5
+P7 (dom), Time: 0,49394 s., Entries: 1
+P1 (dom), Time: 0,53910 s., Entries: 1
+Solution - P4 (deg)
+Total time: 0,54586 s.
+P7 (deg), Time: 0,04118 s., Entries: 40
+P9 (deg), Time: 0,00991 s., Entries: 45
+P3 (deg), Time: 0,01158 s., Entries: 38
+P6 (mmex), Time: 0,01101 s., Entries: 4
+P8 (dom), Time: 0,02374 s., Entries: 1
+P0 (mmex), Time: 0,02446 s., Entries: 4
+P10 (mmex), Time: 0,02033 s., Entries: 4
+P5 (mmcex), Time: 0,08862 s., Entries: 5
+P11 (mmcex), Time: 0,08918 s., Entries: 4
+P1 (mmcex), Time: 0,09359 s., Entries: 5
+P2 (dom), Time: 0,45855 s., Entries: 1
+P4 (dom), Time: 0,53424 s., Entries: 1
+Solution - P7 (deg)
+Total time: 0,54123 s.
+P9 (dom), Time: 0,02970 s., Entries: 1
+P8 (deg), Time: 0,01943 s., Entries: 92
+P5 (mmex), Time: 0,02883 s., Entries: 4
+P3 (deg), Time: 0,05265 s., Entries: 62
+P10 (mmex), Time: 0,02189 s., Entries: 4
+P6 (deg), Time: 0,01834 s., Entries: 31
+P1 (mmex), Time: 0,02056 s., Entries: 6
+P7 (mmcex), Time: 0,09630 s., Entries: 5
+P0 (mmcex), Time: 0,10315 s., Entries: 5
+P11 (mmcex), Time: 0,09849 s., Entries: 4
+P2 (dom), Time: 0,50730 s., Entries: 1
+P4 (dom), Time: 0,54035 s., Entries: 1
+Solution - P3 (deg)
+Total time: 0,54965 s.
+P9 (dom), Time: 0,01192 s., Entries: 1
+P3 (deg), Time: 0,04947 s., Entries: 62
+P5 (deg), Time: 0,01662 s., Entries: 33
+P8 (deg), Time: 0,01026 s., Entries: 101
+P6 (mmex), Time: 0,01599 s., Entries: 9
+P0 (mmex), Time: 0,02541 s., Entries: 22
+P11 (mmex), Time: 0,02622 s., Entries: 4
+P10 (mmcex), Time: 0,09035 s., Entries: 4
+P2 (mmcex), Time: 0,09817 s., Entries: 5
+P7 (mmcex), Time: 0,09533 s., Entries: 5
+P1 (dom), Time: 0,54559 s., Entries: 1
+P4 (dom), Time: 0,55009 s., Entries: 1
+Solution - P3 (deg)
+Total time: 0,56278 s.
+P11 (mmex), Time: 0,01568 s., Entries: 4
+P2 (deg), Time: 0,04755 s., Entries: 62
+P10 (dom), Time: 0,02303 s., Entries: 1
+P4 (mmex), Time: 0,01361 s., Entries: 4
+P8 (deg), Time: 0,01145 s., Entries: 74
+P7 (deg), Time: 0,01303 s., Entries: 29
+P3 (mmex), Time: 0,01497 s., Entries: 6
+P9 (mmcex), Time: 0,09272 s., Entries: 4
+P1 (mmcex), Time: 0,10481 s., Entries: 5
+P5 (mmcex), Time: 0,10121 s., Entries: 5
+P0 (dom), Time: 0,49553 s., Entries: 1
+P6 (dom), Time: 0,54329 s., Entries: 1
+Solution - P2 (deg)
+Total time: 0,55677 s.
+==========
+
+
+==========
+Sample no. 4 basic, k = 3, p = 12
+P4 (deg), Time: 0,07326 s., Entries: 1051
+P9 (deg), Time: 0,06373 s., Entries: 1166
+P5 (mmcex), Time: 0,07350 s., Entries: 11
+P0 (dom), Time: 0,03735 s., Entries: 1
+P2 (deg), Time: 0,01596 s., Entries: 107
+P1 (mmex), Time: 0,01587 s., Entries: 3
+P6 (mmex), Time: 0,07128 s., Entries: 80
+P7 (deg), Time: 0,06442 s., Entries: 1005
+P10 (mmcex), Time: 0,07210 s., Entries: 9
+P8 (dom), Time: 1,28169 s., Entries: 2
+P3 (dom), Time: 1,28478 s., Entries: 2
+P11 (dom), Time: 1,78495 s., Entries: 2
+Solution - P4 (deg)
+Total time: 1,79515 s.
+P2 (mmcex), Time: 0,03194 s., Entries: 3
+P11 (mmex), Time: 0,05040 s., Entries: 74
+P10 (mmcex), Time: 0,06077 s., Entries: 9
+P1 (dom), Time: 0,01407 s., Entries: 1
+P8 (mmex), Time: 0,04695 s., Entries: 19
+P7 (deg), Time: 0,06032 s., Entries: 1069
+P4 (mmex), Time: 0,06116 s., Entries: 23
+P0 (deg), Time: 0,01517 s., Entries: 261
+P3 (mmcex), Time: 0,05904 s., Entries: 7
+P5 (deg), Time: 0,05315 s., Entries: 829
+P6 (dom), Time: 1,21277 s., Entries: 2
+P9 (dom), Time: 1,72985 s., Entries: 2
+Solution - P7 (deg)
+Total time: 1,74009 s.
+P0 (deg), Time: 0,01611 s., Entries: 206
+P1 (dom), Time: 0,01501 s., Entries: 1
+P2 (mmcex), Time: 0,04339 s., Entries: 3
+P11 (deg), Time: 0,06359 s., Entries: 1083
+P8 (mmex), Time: 0,06396 s., Entries: 30
+P4 (mmcex), Time: 0,06711 s., Entries: 16
+P5 (deg), Time: 0,06780 s., Entries: 858
+P7 (deg), Time: 0,06619 s., Entries: 1060
+P6 (mmcex), Time: 0,06848 s., Entries: 13
+P9 (mmex), Time: 0,06605 s., Entries: 105
+P3 (dom), Time: 1,22312 s., Entries: 2
+P10 (dom), Time: 1,76618 s., Entries: 2
+Solution - P4 (mmcex)
+Total time: 1,77792 s.
+P6 (mmex), Time: 0,06359 s., Entries: 17
+P4 (mmex), Time: 0,05768 s., Entries: 68
+P9 (deg), Time: 0,05349 s., Entries: 924
+P8 (deg), Time: 0,06268 s., Entries: 1069
+P1 (mmcex), Time: 0,03891 s., Entries: 3
+P5 (deg), Time: 0,05898 s., Entries: 732
+P0 (deg), Time: 0,04161 s., Entries: 708
+P10 (mmcex), Time: 0,05803 s., Entries: 9
+P2 (mmex), Time: 0,03112 s., Entries: 3
+P7 (dom), Time: 1,25775 s., Entries: 2
+P3 (dom), Time: 1,25969 s., Entries: 2
+P11 (dom), Time: 1,74369 s., Entries: 2
+Solution - P8 (deg)
+Total time: 1,75548 s.
+P6 (mmcex), Time: 0,05074 s., Entries: 7
+P2 (mmex), Time: 0,01336 s., Entries: 2
+P1 (dom), Time: 0,01068 s., Entries: 1
+P11 (mmex), Time: 0,04658 s., Entries: 45
+P8 (deg), Time: 0,04985 s., Entries: 1069
+P0 (deg), Time: 0,01169 s., Entries: 88
+P4 (mmex), Time: 0,05114 s., Entries: 17
+P3 (mmcex), Time: 0,05559 s., Entries: 7
+P9 (mmcex), Time: 0,05702 s., Entries: 9
+P5 (dom), Time: 1,24911 s., Entries: 2
+P7 (dom), Time: 1,24873 s., Entries: 2
+P10 (dom), Time: 1,79144 s., Entries: 2
+Solution - P8 (deg)
+Total time: 1,80229 s.
+==========
+
+
+==========
+Sample no. 4 inverse, k = 4, p = 12
+P2 (deg), Time: 0,06767 s., Entries: 102
+P0 (mmcex), Time: 0,08246 s., Entries: 8
+P5 (mmcex), Time: 0,06907 s., Entries: 4
+P1 (deg), Time: 0,09800 s., Entries: 172
+P6 (mmcex), Time: 0,07210 s., Entries: 4
+P9 (deg), Time: 0,07673 s., Entries: 5
+P10 (mmex), Time: 0,23677 s., Entries: 4
+P8 (mmex), Time: 0,23895 s., Entries: 4
+P4 (mmex), Time: 0,24558 s., Entries: 4
+P3 (mmex), Time: 0,24655 s., Entries: 4
+P11 (dom), Time: 0,25150 s., Entries: 1
+P7 (dom), Time: 0,32755 s., Entries: 1
+Solution - P1 (deg)
+Total time: 0,33462 s.
+P1 (mmcex), Time: 0,06807 s., Entries: 8
+P3 (mmcex), Time: 0,05254 s., Entries: 4
+P8 (deg), Time: 0,06275 s., Entries: 5
+P4 (deg), Time: 0,07164 s., Entries: 5
+P7 (deg), Time: 0,07708 s., Entries: 96
+P9 (mmex), Time: 0,22799 s., Entries: 4
+P0 (mmex), Time: 0,24076 s., Entries: 4
+P11 (dom), Time: 0,22687 s., Entries: 1
+P2 (mmex), Time: 0,24308 s., Entries: 4
+P10 (mmex), Time: 0,23183 s., Entries: 4
+P5 (mmex), Time: 0,24091 s., Entries: 4
+P6 (dom), Time: 0,30397 s., Entries: 1
+Solution - P7 (deg)
+Total time: 0,31424 s.
+P8 (deg), Time: 0,07653 s., Entries: 5
+P7 (deg), Time: 0,09459 s., Entries: 96
+P0 (deg), Time: 0,06543 s., Entries: 114
+P3 (mmcex), Time: 0,07835 s., Entries: 8
+P11 (dom), Time: 0,22160 s., Entries: 1
+P1 (mmex), Time: 0,23434 s., Entries: 4
+P10 (mmex), Time: 0,23310 s., Entries: 4
+P4 (mmex), Time: 0,24896 s., Entries: 4
+P6 (dom), Time: 0,30770 s., Entries: 1
+P2 (dom), Time: 0,31053 s., Entries: 1
+P5 (dom), Time: 0,31071 s., Entries: 1
+P9 (dom), Time: 0,31074 s., Entries: 1
+Solution - P7 (deg)
+Total time: 0,31837 s.
+P8 (mmcex), Time: 0,07445 s., Entries: 4
+P10 (mmcex), Time: 0,07482 s., Entries: 4
+P6 (mmcex), Time: 0,07317 s., Entries: 4
+P1 (mmcex), Time: 0,07830 s., Entries: 4
+P11 (mmcex), Time: 0,07208 s., Entries: 4
+P7 (deg), Time: 0,07979 s., Entries: 96
+P2 (deg), Time: 0,05805 s., Entries: 102
+P9 (deg), Time: 0,06380 s., Entries: 5
+P5 (mmcex), Time: 0,07345 s., Entries: 4
+P3 (mmcex), Time: 0,07981 s., Entries: 4
+P0 (mmex), Time: 0,22247 s., Entries: 4
+P4 (mmex), Time: 0,22585 s., Entries: 4
+Solution - P7 (deg)
+Total time: 0,23328 s.
+P5 (deg), Time: 0,08556 s., Entries: 257
+P11 (deg), Time: 0,11990 s., Entries: 15
+P10 (mmcex), Time: 0,19273 s., Entries: 11
+P9 (mmcex), Time: 0,20772 s., Entries: 11
+P8 (mmex), Time: 0,26175 s., Entries: 4
+P2 (mmcex), Time: 0,26763 s., Entries: 53
+P1 (mmcex), Time: 0,26787 s., Entries: 58
+P4 (mmex), Time: 0,27539 s., Entries: 4
+P0 (dom), Time: 0,34158 s., Entries: 1
+P6 (dom), Time: 0,33840 s., Entries: 1
+P3 (mmex), Time: 0,34093 s., Entries: 4
+P7 (mmex), Time: 0,38743 s., Entries: 7
+Solution - P1 (mmcex)
+Total time: 0,39400 s.
+==========
+
+
+==========
+Sample no. 5 basic, k = 4, p = 12
+P9 (deg), Time: 0,06726 s., Entries: 101
+P10 (mmcex), Time: 0,17778 s., Entries: 23
+P5 (mmcex), Time: 0,19534 s., Entries: 55
+P2 (mmcex), Time: 0,19946 s., Entries: 55
+P3 (mmex), Time: 0,26829 s., Entries: 5
+P11 (mmex), Time: 0,26690 s., Entries: 9
+P4 (dom), Time: 0,42507 s., Entries: 1
+P6 (dom), Time: 0,43025 s., Entries: 1
+P7 (mmex), Time: 0,43864 s., Entries: 11
+P1 (mmex), Time: 0,56813 s., Entries: 42
+P8 (mmex), Time: 0,58300 s., Entries: 45
+P0 (dom), Time: 0,71868 s., Entries: 3
+Solution - P1 (mmex)
+Total time: 0,72200 s.
+P7 (mmcex), Time: 0,19342 s., Entries: 23
+P11 (mmcex), Time: 0,15607 s., Entries: 9
+P4 (mmcex), Time: 0,21520 s., Entries: 55
+P5 (mmex), Time: 0,29982 s., Entries: 5
+P6 (mmex), Time: 0,32717 s., Entries: 5
+P2 (deg), Time: 0,40222 s., Entries: 34157
+P3 (dom), Time: 0,44905 s., Entries: 1
+P9 (dom), Time: 0,50079 s., Entries: 1
+P10 (dom), Time: 0,50237 s., Entries: 1
+P0 (mmex), Time: 0,53006 s., Entries: 42
+P8 (dom), Time: 0,58591 s., Entries: 2
+P1 (dom), Time: 0,60980 s., Entries: 2
+Solution - P0 (mmex)
+Total time: 0,61432 s.
+P10 (deg), Time: 0,10449 s., Entries: 173
+P11 (deg), Time: 0,13272 s., Entries: 9
+P2 (deg), Time: 0,21714 s., Entries: 6195
+P6 (mmcex), Time: 0,21490 s., Entries: 23
+P9 (mmcex), Time: 0,21381 s., Entries: 23
+P1 (mmcex), Time: 0,21841 s., Entries: 100
+P3 (mmcex), Time: 0,21719 s., Entries: 36
+P0 (mmex), Time: 0,29415 s., Entries: 5
+P5 (mmex), Time: 0,30146 s., Entries: 5
+P7 (dom), Time: 0,33936 s., Entries: 1
+P8 (dom), Time: 0,38670 s., Entries: 1
+P4 (dom), Time: 0,39298 s., Entries: 1
+Solution - P1 (mmcex)
+Total time: 0,39994 s.
+P6 (deg), Time: 0,10563 s., Entries: 83
+P11 (mmcex), Time: 0,16124 s., Entries: 9
+P9 (mmcex), Time: 0,21067 s., Entries: 23
+P3 (mmcex), Time: 0,22181 s., Entries: 55
+P7 (dom), Time: 0,37355 s., Entries: 1
+P4 (deg), Time: 0,39398 s., Entries: 38081
+P5 (mmex), Time: 0,42899 s., Entries: 10
+P2 (dom), Time: 0,44583 s., Entries: 1
+P10 (dom), Time: 0,45131 s., Entries: 1
+P1 (mmex), Time: 0,51930 s., Entries: 42
+P8 (mmex), Time: 0,52466 s., Entries: 22
+P0 (dom), Time: 0,57588 s., Entries: 2
+Solution - P1 (mmex)
+Total time: 0,57957 s.
+P9 (deg), Time: 0,12078 s., Entries: 101
+P11 (mmcex), Time: 0,18206 s., Entries: 9
+P10 (mmcex), Time: 0,25334 s., Entries: 23
+P5 (mmcex), Time: 0,30429 s., Entries: 55
+P4 (mmex), Time: 0,38845 s., Entries: 5
+P3 (deg), Time: 0,54975 s., Entries: 34157
+P6 (dom), Time: 0,61185 s., Entries: 1
+P8 (deg), Time: 0,61525 s., Entries: 39633
+P1 (mmex), Time: 0,63233 s., Entries: 42
+P7 (mmex), Time: 0,67569 s., Entries: 34
+P2 (dom), Time: 0,72294 s., Entries: 2
+P0 (dom), Time: 0,74922 s., Entries: 2
+Solution - P1 (mmex)
+Total time: 0,75247 s.
+==========
+
+
+==========
+Sample no. 5 inverse, k = 4, p = 12
+P4 (deg), Time: 0,15648 s., Entries: 2510
+P7 (deg), Time: 0,15533 s., Entries: 3144
+P10 (deg), Time: 0,18168 s., Entries: 2423
+P9 (deg), Time: 0,15438 s., Entries: 2098
+P2 (deg), Time: 0,15709 s., Entries: 3534
+P11 (mmex), Time: 0,19976 s., Entries: 8
+P5 (mmcex), Time: 0,20389 s., Entries: 7
+P0 (mmex), Time: 0,20953 s., Entries: 9
+P6 (mmex), Time: 0,21671 s., Entries: 9
+P3 (dom), Time: 15,46428 s., Entries: 1
+P1 (dom), Time: 15,61607 s., Entries: 1
+P8 (dom), Time: 65,25694 s., Entries: 2
+Solution - P10 (deg)
+Total time: 65,26464 s.
+P8 (deg), Time: 0,18929 s., Entries: 2379
+P5 (deg), Time: 0,16207 s., Entries: 2836
+P11 (deg), Time: 0,15919 s., Entries: 2533
+P1 (mmex), Time: 0,19214 s., Entries: 9
+P2 (mmex), Time: 0,21286 s., Entries: 9
+P4 (mmcex), Time: 0,21415 s., Entries: 7
+P9 (mmcex), Time: 0,21309 s., Entries: 7
+P3 (mmcex), Time: 0,22314 s., Entries: 7
+P6 (mmcex), Time: 0,22460 s., Entries: 7
+P7 (dom), Time: 14,86213 s., Entries: 1
+P0 (dom), Time: 15,13806 s., Entries: 1
+P10 (dom), Time: 66,12698 s., Entries: 2
+Solution - P8 (deg)
+Total time: 66,13608 s.
+P7 (deg), Time: 0,15318 s., Entries: 3362
+P10 (deg), Time: 0,15205 s., Entries: 2036
+P4 (deg), Time: 0,18180 s., Entries: 3145
+P8 (mmex), Time: 0,16094 s., Entries: 6
+P5 (mmex), Time: 0,17160 s., Entries: 6
+P6 (mmcex), Time: 0,20149 s., Entries: 7
+P0 (mmex), Time: 0,21429 s., Entries: 9
+P2 (mmcex), Time: 0,21349 s., Entries: 7
+P3 (dom), Time: 15,20311 s., Entries: 1
+P1 (dom), Time: 15,32498 s., Entries: 1
+P9 (dom), Time: 68,91880 s., Entries: 2
+P11 (dom), Time: 101,51200 s., Entries: 2
+Solution - P4 (deg)
+Total time: 101,52107 s.
+P4 (deg), Time: 0,13373 s., Entries: 2688
+P8 (deg), Time: 0,16105 s., Entries: 2379
+P9 (mmex), Time: 0,17741 s., Entries: 6
+P2 (mmex), Time: 0,24624 s., Entries: 9
+P7 (mmex), Time: 0,25219 s., Entries: 9
+P1 (mmex), Time: 0,25464 s., Entries: 9
+P3 (dom), Time: 15,35856 s., Entries: 1
+P6 (dom), Time: 15,36361 s., Entries: 1
+P0 (dom), Time: 15,36929 s., Entries: 1
+P10 (dom), Time: 69,04156 s., Entries: 2
+P5 (dom), Time: 75,96625 s., Entries: 2
+P11 (dom), Time: 101,18724 s., Entries: 2
+Solution - P8 (deg)
+Total time: 101,19723 s.
+P3 (mmcex), Time: 0,29481 s., Entries: 9
+P2 (deg), Time: 0,28335 s., Entries: 16171
+P6 (mmex), Time: 0,42727 s., Entries: 229
+P7 (mmcex), Time: 0,45512 s., Entries: 16
+P1 (mmcex), Time: 0,86233 s., Entries: 104
+P4 (mmex), Time: 0,86032 s., Entries: 807
+P9 (mmex), Time: 0,85909 s., Entries: 920
+P11 (mmcex), Time: 0,85631 s., Entries: 64
+P8 (mmcex), Time: 0,86159 s., Entries: 87
+P0 (dom), Time: 15,76451 s., Entries: 1
+P10 (dom), Time: 67,42478 s., Entries: 2
+P5 (dom), Time: 72,43965 s., Entries: 2
+Solution - P9 (mmex)
+Total time: 72,44856 s.
+==========
+
+
+==========
+Sample no. 6 basic, k = 3, p = 12
+P9 (mmex), Time: 0,01481 s., Entries: 4
+P10 (deg), Time: 0,00134 s., Entries: 7
+P0 (mmcex), Time: 0,02943 s., Entries: 19
+P7 (dom), Time: 0,04069 s., Entries: 1
+P8 (mmex), Time: 0,01696 s., Entries: 4
+P5 (mmex), Time: 0,01734 s., Entries: 4
+P6 (deg), Time: 0,00611 s., Entries: 19
+P11 (mmcex), Time: 0,00994 s., Entries: 4
+P4 (deg), Time: 0,00588 s., Entries: 13
+P1 (mmex), Time: 0,04453 s., Entries: 20
+P3 (dom), Time: 0,04255 s., Entries: 1
+P2 (dom), Time: 0,04799 s., Entries: 1
+Solution - P1 (mmex)
+Total time: 0,05271 s.
+P1 (deg), Time: 0,04227 s., Entries: 27
+P6 (mmex), Time: 0,01291 s., Entries: 4
+P10 (mmex), Time: 0,00988 s., Entries: 4
+P8 (mmcex), Time: 0,00949 s., Entries: 4
+P4 (mmex), Time: 0,01271 s., Entries: 4
+P7 (dom), Time: 0,03438 s., Entries: 1
+P3 (dom), Time: 0,03831 s., Entries: 1
+P2 (mmcex), Time: 0,01082 s., Entries: 4
+P11 (dom), Time: 0,00029 s., Entries: 1
+P5 (deg), Time: 0,00318 s., Entries: 13
+P9 (deg), Time: 0,00034 s., Entries: 4
+P0 (dom), Time: 0,04576 s., Entries: 1
+Solution - P1 (deg)
+Total time: 0,04891 s.
+P0 (mmex), Time: 0,00672 s., Entries: 9
+P11 (mmcex), Time: 0,00001 s., Entries: 2
+P6 (mmex), Time: 0,00889 s., Entries: 4
+P7 (mmcex), Time: 0,00003 s., Entries: 2
+P8 (deg), Time: 0,00056 s., Entries: 4
+P1 (mmcex), Time: 0,00512 s., Entries: 4
+P2 (deg), Time: 0,03228 s., Entries: 27
+P10 (deg), Time: 0,00049 s., Entries: 4
+P3 (mmex), Time: 0,00961 s., Entries: 4
+P4 (dom), Time: 0,00024 s., Entries: 1
+P9 (mmex), Time: 0,00803 s., Entries: 4
+P5 (mmcex), Time: 0,00002 s., Entries: 2
+Solution - P2 (deg)
+Total time: 0,04254 s.
+P1 (deg), Time: 0,03962 s., Entries: 27
+P8 (dom), Time: 0,03351 s., Entries: 1
+P7 (mmcex), Time: 0,01117 s., Entries: 4
+P10 (mmcex), Time: 0,01008 s., Entries: 4
+P11 (deg), Time: 0,00251 s., Entries: 4
+P3 (deg), Time: 0,00153 s., Entries: 13
+P6 (deg), Time: 0,00291 s., Entries: 19
+P5 (mmex), Time: 0,01576 s., Entries: 4
+P9 (mmex), Time: 0,01506 s., Entries: 4
+P2 (mmex), Time: 0,01816 s., Entries: 4
+P4 (dom), Time: 0,03526 s., Entries: 1
+P0 (dom), Time: 0,04374 s., Entries: 1
+Solution - P1 (deg)
+Total time: 0,04670 s.
+P2 (mmcex), Time: 0,01262 s., Entries: 4
+P8 (dom), Time: 0,02821 s., Entries: 1
+P9 (deg), Time: 0,00088 s., Entries: 7
+P1 (deg), Time: 0,03990 s., Entries: 27
+P5 (dom), Time: 0,03061 s., Entries: 1
+P3 (mmcex), Time: 0,01256 s., Entries: 4
+P4 (mmex), Time: 0,01494 s., Entries: 4
+P6 (mmex), Time: 0,01408 s., Entries: 4
+P10 (dom), Time: 0,00012 s., Entries: 1
+P7 (mmcex), Time: 0,01037 s., Entries: 4
+P0 (mmex), Time: 0,01611 s., Entries: 4
+P11 (mmex), Time: 0,00855 s., Entries: 4
+Solution - P1 (deg)
+Total time: 0,04623 s.
+==========
+
+
+==========
+Sample no. 6 inverse, k = 3, p = 12
+P1 (mmcex), Time: 0,01404 s., Entries: 8
+P9 (mmcex), Time: 0,01021 s., Entries: 6
+P11 (deg), Time: 0,03056 s., Entries: 43
+P2 (dom), Time: 0,02539 s., Entries: 1
+P5 (deg), Time: 0,00637 s., Entries: 33
+P4 (dom), Time: 0,02393 s., Entries: 1
+P0 (mmex), Time: 0,01529 s., Entries: 4
+P7 (mmex), Time: 0,00652 s., Entries: 2
+P10 (mmex), Time: 0,01097 s., Entries: 3
+P6 (mmcex), Time: 0,01067 s., Entries: 8
+P3 (deg), Time: 0,01018 s., Entries: 33
+P8 (dom), Time: 0,04678 s., Entries: 2
+Solution - P11 (deg)
+Total time: 0,05433 s.
+P4 (mmex), Time: 0,00651 s., Entries: 2
+P9 (mmcex), Time: 0,00752 s., Entries: 6
+P10 (mmex), Time: 0,00858 s., Entries: 3
+P1 (dom), Time: 0,02800 s., Entries: 1
+P6 (dom), Time: 0,02439 s., Entries: 1
+P0 (deg), Time: 0,00693 s., Entries: 33
+P2 (mmex), Time: 0,00476 s., Entries: 2
+P11 (deg), Time: 0,02942 s., Entries: 43
+P5 (mmcex), Time: 0,00654 s., Entries: 4
+P7 (deg), Time: 0,00291 s., Entries: 33
+P3 (mmcex), Time: 0,00511 s., Entries: 5
+P8 (dom), Time: 0,03991 s., Entries: 2
+Solution - P11 (deg)
+Total time: 0,05249 s.
+P4 (mmcex), Time: 0,01038 s., Entries: 4
+P1 (dom), Time: 0,02896 s., Entries: 1
+P7 (deg), Time: 0,00638 s., Entries: 33
+P5 (mmex), Time: 0,01187 s., Entries: 2
+P2 (mmcex), Time: 0,00733 s., Entries: 5
+P6 (dom), Time: 0,02560 s., Entries: 1
+P9 (deg), Time: 0,03091 s., Entries: 43
+P3 (mmex), Time: 0,00991 s., Entries: 2
+P8 (mmex), Time: 0,01118 s., Entries: 3
+P0 (deg), Time: 0,00457 s., Entries: 33
+P11 (mmcex), Time: 0,00619 s., Entries: 5
+P10 (dom), Time: 0,04066 s., Entries: 2
+Solution - P9 (deg)
+Total time: 0,04950 s.
+P0 (dom), Time: 0,03215 s., Entries: 1
+P5 (deg), Time: 0,00497 s., Entries: 33
+P8 (mmex), Time: 0,01073 s., Entries: 3
+P4 (dom), Time: 0,03009 s., Entries: 1
+P2 (mmex), Time: 0,01099 s., Entries: 2
+P7 (mmcex), Time: 0,00696 s., Entries: 4
+P9 (deg), Time: 0,03735 s., Entries: 43
+P3 (mmcex), Time: 0,00695 s., Entries: 5
+P1 (deg), Time: 0,00647 s., Entries: 33
+P10 (mmcex), Time: 0,00619 s., Entries: 5
+P6 (mmex), Time: 0,01046 s., Entries: 2
+P11 (dom), Time: 0,04243 s., Entries: 2
+Solution - P9 (deg)
+Total time: 0,05521 s.
+P2 (mmcex), Time: 0,00714 s., Entries: 5
+P9 (deg), Time: 0,03161 s., Entries: 43
+P7 (mmex), Time: 0,00557 s., Entries: 2
+P5 (deg), Time: 0,00405 s., Entries: 33
+P4 (mmcex), Time: 0,00840 s., Entries: 4
+P11 (mmex), Time: 0,01100 s., Entries: 6
+P3 (dom), Time: 0,02665 s., Entries: 1
+P0 (mmex), Time: 0,00910 s., Entries: 2
+P8 (mmcex), Time: 0,01034 s., Entries: 10
+P1 (deg), Time: 0,00808 s., Entries: 33
+P6 (dom), Time: 0,02303 s., Entries: 1
+P10 (dom), Time: 0,04590 s., Entries: 2
+Solution - P9 (deg)
+Total time: 0,05450 s.
+==========
+
+
+==========
+Sample no. 7 basic, k = 4, p = 12
+P0 (mmcex), Time: 0,08588 s., Entries: 9
+P1 (dom), Time: 0,06328 s., Entries: 1
+P11 (deg), Time: 0,09560 s., Entries: 1224
+P7 (deg), Time: 0,10828 s., Entries: 1345
+P10 (mmcex), Time: 0,10586 s., Entries: 38
+P2 (mmcex), Time: 0,11450 s., Entries: 42
+P9 (deg), Time: 0,10680 s., Entries: 1189
+P6 (mmcex), Time: 0,11185 s., Entries: 34
+P8 (mmex), Time: 0,12298 s., Entries: 3
+P4 (mmex), Time: 0,16651 s., Entries: 6
+P3 (dom), Time: 0,53751 s., Entries: 2
+P5 (dom), Time: 0,55686 s., Entries: 2
+Solution - P9 (deg)
+Total time: 0,56595 s.
+P0 (deg), Time: 0,11038 s., Entries: 114
+P6 (mmex), Time: 0,11369 s., Entries: 4
+P11 (mmex), Time: 0,11299 s., Entries: 5
+P4 (deg), Time: 0,10200 s., Entries: 496
+P5 (mmex), Time: 0,11113 s., Entries: 3
+P8 (mmex), Time: 0,10665 s., Entries: 3
+P2 (deg), Time: 0,13065 s., Entries: 610
+P1 (mmcex), Time: 0,10549 s., Entries: 9
+P3 (dom), Time: 0,55223 s., Entries: 2
+P10 (dom), Time: 0,69845 s., Entries: 2
+P9 (dom), Time: 0,70978 s., Entries: 2
+P7 (dom), Time: 0,71773 s., Entries: 2
+Solution - P2 (deg)
+Total time: 0,73036 s.
+P0 (mmex), Time: 0,10531 s., Entries: 2
+P1 (dom), Time: 0,07349 s., Entries: 1
+P5 (deg), Time: 0,10266 s., Entries: 592
+P6 (deg), Time: 0,10151 s., Entries: 957
+P7 (mmcex), Time: 0,10929 s., Entries: 14
+P2 (mmex), Time: 0,11339 s., Entries: 3
+P9 (mmex), Time: 0,11239 s., Entries: 4
+P8 (mmcex), Time: 0,11415 s., Entries: 15
+P11 (mmex), Time: 0,11205 s., Entries: 5
+P3 (dom), Time: 0,53463 s., Entries: 2
+P4 (dom), Time: 0,54952 s., Entries: 2
+P10 (dom), Time: 0,73512 s., Entries: 2
+Solution - P5 (deg)
+Total time: 0,74953 s.
+P0 (dom), Time: 0,06589 s., Entries: 1
+P1 (deg), Time: 0,07708 s., Entries: 55
+P7 (deg), Time: 0,15161 s., Entries: 1708
+P3 (deg), Time: 0,15309 s., Entries: 610
+P9 (mmcex), Time: 0,15885 s., Entries: 18
+P6 (mmcex), Time: 0,16966 s., Entries: 26
+P2 (mmcex), Time: 0,17470 s., Entries: 26
+P5 (mmcex), Time: 0,17555 s., Entries: 15
+P10 (mmex), Time: 0,16682 s., Entries: 8
+P4 (dom), Time: 0,51754 s., Entries: 2
+P8 (dom), Time: 0,55025 s., Entries: 2
+P11 (dom), Time: 0,92706 s., Entries: 2
+Solution - P3 (deg)
+Total time: 0,94197 s.
+P1 (mmex), Time: 0,15039 s., Entries: 4
+P5 (mmcex), Time: 0,14314 s., Entries: 36
+P2 (mmex), Time: 0,17454 s., Entries: 6
+P6 (deg), Time: 0,16659 s., Entries: 2665
+P3 (mmcex), Time: 0,14845 s., Entries: 55
+P7 (mmcex), Time: 0,14042 s., Entries: 59
+P0 (mmcex), Time: 0,15604 s., Entries: 21
+P4 (dom), Time: 0,56684 s., Entries: 2
+P8 (dom), Time: 0,56629 s., Entries: 2
+P10 (dom), Time: 0,71938 s., Entries: 2
+P9 (dom), Time: 0,72424 s., Entries: 2
+P11 (dom), Time: 0,88172 s., Entries: 2
+Solution - P6 (deg)
+Total time: 0,92027 s.
+==========
+
+
+==========
+Sample no. 7 inverse, k = 4, p = 12
+P11 (mmcex), Time: 0,32453 s., Entries: 15
+P8 (mmex), Time: 0,33416 s., Entries: 79
+P9 (mmcex), Time: 0,33077 s., Entries: 37
+P10 (deg), Time: 0,72471 s., Entries: 19111
+P2 (mmex), Time: 0,73235 s., Entries: 797
+P5 (deg), Time: 0,72759 s., Entries: 16648
+P3 (deg), Time: 0,73226 s., Entries: 23123
+P0 (mmex), Time: 0,73599 s., Entries: 849
+P6 (mmex), Time: 0,72852 s., Entries: 769
+P1 (deg), Time: 0,73282 s., Entries: 20013
+P4 (dom), Time: 0,79708 s., Entries: 1
+P7 (dom), Time: 0,85868 s., Entries: 1
+Solution - P1 (deg)
+Total time: 0,86826 s.
+P11 (deg), Time: 0,15205 s., Entries: 15
+P8 (mmcex), Time: 0,38590 s., Entries: 37
+P9 (mmex), Time: 0,39527 s., Entries: 79
+P10 (mmcex), Time: 0,40142 s., Entries: 37
+P5 (mmcex), Time: 0,43764 s., Entries: 37
+P4 (deg), Time: 0,43947 s., Entries: 12248
+P7 (mmcex), Time: 0,47996 s., Entries: 139
+P0 (mmex), Time: 0,48800 s., Entries: 190
+P2 (mmex), Time: 0,48711 s., Entries: 174
+P6 (mmex), Time: 0,48091 s., Entries: 235
+P1 (dom), Time: 0,68905 s., Entries: 1
+P3 (dom), Time: 0,71625 s., Entries: 1
+Solution - P7 (mmcex)
+Total time: 0,72085 s.
+P11 (mmcex), Time: 0,42210 s., Entries: 15
+P5 (mmcex), Time: 0,42984 s., Entries: 37
+P4 (mmex), Time: 0,43239 s., Entries: 34
+P8 (deg), Time: 0,49718 s., Entries: 10667
+P10 (deg), Time: 0,49647 s., Entries: 13372
+P9 (mmex), Time: 0,49734 s., Entries: 290
+P1 (mmcex), Time: 0,50542 s., Entries: 139
+P2 (mmex), Time: 0,50487 s., Entries: 178
+P6 (mmcex), Time: 0,50412 s., Entries: 107
+P3 (mmcex), Time: 0,50546 s., Entries: 77
+P7 (mmex), Time: 0,50671 s., Entries: 161
+P0 (dom), Time: 0,78101 s., Entries: 1
+Solution - P1 (mmcex)
+Total time: 0,78620 s.
+P10 (mmcex), Time: 0,33117 s., Entries: 37
+P11 (dom), Time: 0,34105 s., Entries: 1
+P5 (deg), Time: 0,42880 s., Entries: 8175
+P7 (deg), Time: 0,42865 s., Entries: 10828
+P0 (deg), Time: 0,43494 s., Entries: 9157
+P6 (mmcex), Time: 0,42927 s., Entries: 139
+P8 (mmex), Time: 0,42685 s., Entries: 887
+P3 (mmcex), Time: 0,43396 s., Entries: 108
+P1 (mmcex), Time: 0,43554 s., Entries: 112
+P4 (dom), Time: 0,64522 s., Entries: 1
+P9 (dom), Time: 0,65022 s., Entries: 1
+P2 (dom), Time: 0,72086 s., Entries: 1
+Solution - P6 (mmcex)
+Total time: 0,72646 s.
+P11 (deg), Time: 0,14381 s., Entries: 15
+P8 (mmcex), Time: 0,37747 s., Entries: 37
+P5 (mmcex), Time: 0,38143 s., Entries: 37
+P10 (mmcex), Time: 0,37836 s., Entries: 37
+P4 (mmex), Time: 0,38211 s., Entries: 366
+P1 (deg), Time: 0,44105 s., Entries: 10777
+P7 (deg), Time: 0,43250 s., Entries: 15181
+P0 (mmcex), Time: 0,44223 s., Entries: 139
+P3 (mmex), Time: 0,44177 s., Entries: 321
+P9 (dom), Time: 0,62116 s., Entries: 1
+P2 (dom), Time: 0,71273 s., Entries: 1
+P6 (dom), Time: 0,72631 s., Entries: 1
+Solution - P0 (mmcex)
+Total time: 0,73852 s.
+==========
+
+
+==========
+Sample no. 3 basic, k = 4, p = 16
+P1 (deg), Time: 0,04109 s., Entries: 199
+P0 (mmcex), Time: 0,08453 s., Entries: 9
+P14 (mmcex), Time: 0,42649 s., Entries: 191
+P15 (deg), Time: 0,41964 s., Entries: 12248
+P4 (deg), Time: 0,52660 s., Entries: 21793
+P2 (deg), Time: 0,52807 s., Entries: 23601
+P9 (deg), Time: 0,52407 s., Entries: 24015
+P10 (deg), Time: 0,51541 s., Entries: 20919
+P7 (deg), Time: 0,52453 s., Entries: 21627
+P5 (mmcex), Time: 0,52738 s., Entries: 585
+P8 (dom), Time: 0,79884 s., Entries: 2
+P3 (dom), Time: 0,80257 s., Entries: 2
+P12 (mmex), Time: 0,82357 s., Entries: 4
+P13 (dom), Time: 0,83179 s., Entries: 2
+P11 (dom), Time: 0,83372 s., Entries: 2
+P6 (mmex), Time: 0,85096 s., Entries: 4
+Solution - P5 (mmcex)
+Total time: 0,85871 s.
+P1 (deg), Time: 0,03446 s., Entries: 199
+P0 (mmcex), Time: 0,06695 s., Entries: 7
+P12 (deg), Time: 0,24271 s., Entries: 7929
+P4 (deg), Time: 0,25451 s., Entries: 9585
+P11 (deg), Time: 0,20862 s., Entries: 7793
+P15 (deg), Time: 0,19387 s., Entries: 6849
+P9 (deg), Time: 0,24658 s., Entries: 10898
+P2 (mmcex), Time: 0,25673 s., Entries: 316
+P10 (mmcex), Time: 0,24911 s., Entries: 215
+P5 (mmex), Time: 0,51861 s., Entries: 3
+P3 (mmex), Time: 0,53720 s., Entries: 3
+P8 (dom), Time: 0,58715 s., Entries: 2
+P6 (mmex), Time: 0,61806 s., Entries: 4
+P13 (dom), Time: 0,62234 s., Entries: 2
+P7 (dom), Time: 0,63303 s., Entries: 2
+P14 (dom), Time: 0,61795 s., Entries: 2
+Solution - P10 (mmcex)
+Total time: 0,68329 s.
+P7 (deg), Time: 0,24251 s., Entries: 10823
+P13 (mmcex), Time: 0,26066 s., Entries: 201
+P2 (deg), Time: 0,24515 s., Entries: 11157
+P8 (deg), Time: 0,23770 s., Entries: 11321
+P10 (deg), Time: 0,22983 s., Entries: 8854
+P14 (mmcex), Time: 0,23440 s., Entries: 93
+P4 (mmcex), Time: 0,24451 s., Entries: 143
+P0 (mmex), Time: 0,41247 s., Entries: 2
+P1 (dom), Time: 0,50264 s., Entries: 1
+P5 (mmex), Time: 0,56329 s., Entries: 3
+P3 (mmex), Time: 0,60276 s., Entries: 3
+P12 (mmex), Time: 0,58289 s., Entries: 4
+P9 (dom), Time: 0,61683 s., Entries: 2
+P6 (dom), Time: 0,66138 s., Entries: 2
+P11 (dom), Time: 0,64898 s., Entries: 2
+P15 (dom), Time: 0,69840 s., Entries: 2
+Solution - P13 (mmcex)
+Total time: 0,71905 s.
+P0 (deg), Time: 0,04889 s., Entries: 199
+P6 (mmcex), Time: 0,38644 s., Entries: 232
+P7 (deg), Time: 0,38481 s., Entries: 21981
+P9 (mmcex), Time: 0,37513 s., Entries: 310
+P15 (mmcex), Time: 0,36327 s., Entries: 143
+P14 (deg), Time: 0,36911 s., Entries: 14697
+P5 (deg), Time: 0,38645 s., Entries: 28849
+P4 (mmcex), Time: 0,38688 s., Entries: 360
+P1 (mmex), Time: 0,53116 s., Entries: 2
+P2 (mmex), Time: 0,72473 s., Entries: 3
+P3 (dom), Time: 0,73142 s., Entries: 2
+P8 (dom), Time: 0,73306 s., Entries: 2
+P11 (mmex), Time: 0,74599 s., Entries: 4
+P12 (dom), Time: 0,75421 s., Entries: 2
+P13 (mmex), Time: 0,76885 s., Entries: 4
+P10 (dom), Time: 0,77439 s., Entries: 2
+Solution - P6 (mmcex)
+Total time: 0,79865 s.
+P0 (deg), Time: 0,04459 s., Entries: 199
+P1 (mmcex), Time: 0,05272 s., Entries: 9
+P15 (mmcex), Time: 0,37315 s., Entries: 191
+P14 (mmex), Time: 1,04158 s., Entries: 5
+P8 (mmex), Time: 2,56986 s., Entries: 172
+P12 (deg), Time: 2,55637 s., Entries: 255067
+P3 (deg), Time: 2,57192 s., Entries: 150071
+P6 (deg), Time: 2,57001 s., Entries: 256177
+P13 (mmex), Time: 2,57086 s., Entries: 150
+P5 (mmex), Time: 2,58768 s., Entries: 97
+P9 (dom), Time: 2,62536 s., Entries: 9
+P11 (dom), Time: 2,62233 s., Entries: 7
+P4 (dom), Time: 2,63760 s., Entries: 9
+P2 (dom), Time: 2,64204 s., Entries: 9
+P7 (mmex), Time: 2,65054 s., Entries: 192
+P10 (mmex), Time: 2,68355 s., Entries: 192
+Solution - P8 (mmex)
+Total time: 2,69441 s.
+==========
+
+
+==========
+Sample no. 3 inverse, k = 3, p = 16
+P9 (deg), Time: 0,00730 s., Entries: 81
+P11 (dom), Time: 0,01570 s., Entries: 1
+P0 (deg), Time: 0,05944 s., Entries: 62
+P6 (mmex), Time: 0,01358 s., Entries: 4
+P3 (mmex), Time: 0,01457 s., Entries: 4
+P10 (mmex), Time: 0,01841 s., Entries: 4
+P7 (deg), Time: 0,00864 s., Entries: 33
+P1 (mmcex), Time: 0,08921 s., Entries: 5
+P8 (mmcex), Time: 0,08881 s., Entries: 4
+P5 (mmcex), Time: 0,09093 s., Entries: 5
+P2 (dom), Time: 0,45647 s., Entries: 1
+P4 (dom), Time: 0,46487 s., Entries: 1
+Solution - P0 (deg)
+Total time: 0,47776 s.
+P10 (dom), Time: 0,02125 s., Entries: 1
+P5 (deg), Time: 0,04659 s., Entries: 40
+P4 (mmex), Time: 0,02058 s., Entries: 4
+P0 (deg), Time: 0,01952 s., Entries: 60
+P9 (deg), Time: 0,00454 s., Entries: 4
+P2 (mmex), Time: 0,02245 s., Entries: 4
+P8 (mmex), Time: 0,01573 s., Entries: 4
+P6 (mmcex), Time: 0,09238 s., Entries: 5
+P3 (mmcex), Time: 0,09369 s., Entries: 5
+P11 (mmcex), Time: 0,09213 s., Entries: 4
+P1 (dom), Time: 0,51321 s., Entries: 1
+P7 (dom), Time: 0,51026 s., Entries: 1
+Solution - P5 (deg)
+Total time: 0,52472 s.
+P8 (dom), Time: 0,02143 s., Entries: 1
+P5 (mmex), Time: 0,01622 s., Entries: 4
+P4 (deg), Time: 0,00860 s., Entries: 29
+P0 (deg), Time: 0,04648 s., Entries: 62
+P9 (mmex), Time: 0,01434 s., Entries: 4
+P11 (deg), Time: 0,00174 s., Entries: 11
+P2 (mmex), Time: 0,01884 s., Entries: 4
+P3 (mmcex), Time: 0,09534 s., Entries: 5
+P6 (mmcex), Time: 0,09539 s., Entries: 5
+P10 (mmcex), Time: 0,08975 s., Entries: 4
+P7 (dom), Time: 0,47273 s., Entries: 1
+P1 (dom), Time: 0,49892 s., Entries: 1
+Solution - P0 (deg)
+Total time: 0,50722 s.
+P11 (dom), Time: 0,01744 s., Entries: 1
+P4 (deg), Time: 0,02025 s., Entries: 29
+P3 (mmex), Time: 0,02631 s., Entries: 4
+P8 (deg), Time: 0,01225 s., Entries: 101
+P10 (mmex), Time: 0,01801 s., Entries: 4
+P6 (mmex), Time: 0,02358 s., Entries: 9
+P2 (deg), Time: 0,04745 s., Entries: 62
+P9 (mmcex), Time: 0,09186 s., Entries: 4
+P1 (mmcex), Time: 0,09720 s., Entries: 5
+P5 (mmcex), Time: 0,09628 s., Entries: 5
+P7 (dom), Time: 0,51968 s., Entries: 1
+P0 (dom), Time: 0,56613 s., Entries: 1
+Solution - P2 (deg)
+Total time: 0,56942 s.
+P7 (mmex), Time: 0,01400 s., Entries: 4
+P3 (deg), Time: 0,04484 s., Entries: 62
+P8 (dom), Time: 0,02161 s., Entries: 1
+P2 (mmex), Time: 0,01468 s., Entries: 6
+P9 (deg), Time: 0,01333 s., Entries: 81
+P4 (deg), Time: 0,01467 s., Entries: 36
+P11 (mmex), Time: 0,01392 s., Entries: 4
+P10 (mmcex), Time: 0,09023 s., Entries: 4
+P1 (mmcex), Time: 0,09458 s., Entries: 5
+P6 (mmcex), Time: 0,09366 s., Entries: 5
+P5 (dom), Time: 0,50558 s., Entries: 1
+P0 (dom), Time: 0,54219 s., Entries: 1
+Solution - P3 (deg)
+Total time: 0,54560 s.
+==========
+
+
+==========
+Sample no. 4 basic, k = 3, p = 16
+P0 (mmex), Time: 0,00273 s., Entries: 3
+P1 (mmcex), Time: 0,02642 s., Entries: 3
+P3 (dom), Time: 0,00010 s., Entries: 1
+P2 (deg), Time: 0,00187 s., Entries: 2
+P10 (mmcex), Time: 0,07304 s., Entries: 9
+P5 (mmex), Time: 0,07564 s., Entries: 44
+P13 (deg), Time: 0,07086 s., Entries: 1010
+P12 (mmex), Time: 0,07063 s., Entries: 122
+P11 (mmex), Time: 0,07389 s., Entries: 59
+P4 (mmcex), Time: 0,07575 s., Entries: 7
+P8 (deg), Time: 0,07404 s., Entries: 889
+P15 (mmcex), Time: 0,06277 s., Entries: 9
+P7 (deg), Time: 0,07640 s., Entries: 1051
+P9 (dom), Time: 1,21985 s., Entries: 2
+P6 (dom), Time: 1,22243 s., Entries: 2
+P14 (dom), Time: 1,72351 s., Entries: 2
+Solution - P7 (deg)
+Total time: 1,76149 s.
+P14 (deg), Time: 0,07454 s., Entries: 1274
+P6 (mmcex), Time: 0,08247 s., Entries: 11
+P3 (mmex), Time: 0,01154 s., Entries: 3
+P10 (deg), Time: 0,07706 s., Entries: 742
+P0 (mmcex), Time: 0,06278 s., Entries: 3
+P9 (mmcex), Time: 0,07990 s., Entries: 15
+P2 (deg), Time: 0,06163 s., Entries: 45
+P1 (dom), Time: 0,02980 s., Entries: 1
+P13 (mmex), Time: 0,07370 s., Entries: 105
+P15 (mmcex), Time: 0,05556 s., Entries: 7
+P4 (mmex), Time: 0,08052 s., Entries: 84
+P8 (mmex), Time: 0,08014 s., Entries: 40
+P5 (deg), Time: 0,08066 s., Entries: 993
+P7 (dom), Time: 1,26891 s., Entries: 2
+P11 (dom), Time: 1,27099 s., Entries: 2
+P12 (dom), Time: 1,77227 s., Entries: 2
+Solution - P14 (deg)
+Total time: 1,78884 s.
+P2 (deg), Time: 0,00834 s., Entries: 52
+P3 (dom), Time: 0,02821 s., Entries: 1
+P0 (mmex), Time: 0,00988 s., Entries: 3
+P1 (mmcex), Time: 0,07088 s., Entries: 3
+P7 (deg), Time: 0,07284 s., Entries: 1051
+P9 (mmex), Time: 0,07299 s., Entries: 40
+P8 (deg), Time: 0,07354 s., Entries: 695
+P13 (mmex), Time: 0,04902 s., Entries: 8
+P6 (mmex), Time: 0,07485 s., Entries: 77
+P12 (deg), Time: 0,07197 s., Entries: 1041
+P11 (mmcex), Time: 0,08229 s., Entries: 9
+P15 (mmcex), Time: 0,07491 s., Entries: 9
+P4 (mmcex), Time: 0,08598 s., Entries: 9
+P10 (dom), Time: 1,22273 s., Entries: 2
+P5 (dom), Time: 1,23299 s., Entries: 2
+P14 (dom), Time: 1,70731 s., Entries: 2
+Solution - P7 (deg)
+Total time: 1,71661 s.
+P5 (mmcex), Time: 0,07570 s., Entries: 9
+P10 (mmex), Time: 0,06874 s., Entries: 30
+P8 (mmcex), Time: 0,07084 s., Entries: 7
+P15 (mmcex), Time: 0,06351 s., Entries: 11
+P12 (deg), Time: 0,07902 s., Entries: 1274
+P3 (deg), Time: 0,01710 s., Entries: 195
+P11 (deg), Time: 0,06729 s., Entries: 564
+P4 (mmex), Time: 0,07403 s., Entries: 23
+P0 (mmcex), Time: 0,07125 s., Entries: 3
+P2 (mmex), Time: 0,04303 s., Entries: 2
+P13 (mmex), Time: 0,06460 s., Entries: 39
+P1 (dom), Time: 0,01889 s., Entries: 1
+P7 (deg), Time: 0,06869 s., Entries: 813
+P9 (dom), Time: 1,31092 s., Entries: 2
+P6 (dom), Time: 1,32890 s., Entries: 2
+P14 (dom), Time: 1,80433 s., Entries: 2
+Solution - P12 (deg)
+Total time: 1,85249 s.
+P11 (mmex), Time: 0,06534 s., Entries: 17
+P2 (deg), Time: 0,00965 s., Entries: 77
+P9 (mmcex), Time: 0,06233 s., Entries: 7
+P15 (mmex), Time: 0,02021 s., Entries: 8
+P3 (dom), Time: 0,00835 s., Entries: 1
+P8 (deg), Time: 0,06601 s., Entries: 1069
+P6 (mmex), Time: 0,06823 s., Entries: 17
+P0 (mmcex), Time: 0,05366 s., Entries: 3
+P1 (mmex), Time: 0,01035 s., Entries: 2
+P12 (deg), Time: 0,05113 s., Entries: 444
+P7 (deg), Time: 0,05726 s., Entries: 704
+P14 (mmcex), Time: 0,02058 s., Entries: 7
+P4 (mmcex), Time: 0,07717 s., Entries: 9
+P10 (dom), Time: 1,21954 s., Entries: 2
+P5 (dom), Time: 1,22304 s., Entries: 2
+P13 (dom), Time: 1,73715 s., Entries: 2
+Solution - P8 (deg)
+Total time: 1,75039 s.
+==========
+
+
+==========
+Sample no. 4 inverse, k = 4, p = 16
+P12 (mmcex), Time: 0,06776 s., Entries: 4
+P1 (deg), Time: 0,09902 s., Entries: 172
+P14 (deg), Time: 0,07600 s., Entries: 5
+P8 (mmcex), Time: 0,09255 s., Entries: 8
+P10 (deg), Time: 0,07669 s., Entries: 5
+P2 (mmcex), Time: 0,07754 s., Entries: 4
+P5 (mmcex), Time: 0,10055 s., Entries: 8
+P9 (mmex), Time: 0,25192 s., Entries: 4
+P4 (mmex), Time: 0,25409 s., Entries: 4
+P0 (mmex), Time: 0,25796 s., Entries: 4
+P11 (mmex), Time: 0,25446 s., Entries: 4
+P6 (mmex), Time: 0,26467 s., Entries: 4
+P15 (dom), Time: 0,26539 s., Entries: 1
+P13 (dom), Time: 0,33878 s., Entries: 1
+P3 (dom), Time: 0,35020 s., Entries: 1
+P7 (dom), Time: 0,35394 s., Entries: 1
+Solution - P1 (deg)
+Total time: 0,36086 s.
+P5 (mmcex), Time: 0,07793 s., Entries: 4
+P2 (mmcex), Time: 0,08627 s., Entries: 4
+P10 (mmcex), Time: 0,09557 s., Entries: 7
+P1 (deg), Time: 0,07472 s., Entries: 49
+P4 (deg), Time: 0,10386 s., Entries: 166
+P6 (deg), Time: 0,11269 s., Entries: 5
+P11 (deg), Time: 0,10732 s., Entries: 5
+P13 (mmex), Time: 0,23416 s., Entries: 4
+P0 (mmex), Time: 0,25188 s., Entries: 4
+P14 (mmex), Time: 0,22560 s., Entries: 4
+P9 (mmex), Time: 0,25796 s., Entries: 4
+P15 (dom), Time: 0,23083 s., Entries: 1
+P7 (dom), Time: 0,33858 s., Entries: 1
+P8 (dom), Time: 0,34047 s., Entries: 1
+P3 (dom), Time: 0,34788 s., Entries: 1
+P12 (dom), Time: 0,33776 s., Entries: 1
+Solution - P4 (deg)
+Total time: 0,35520 s.
+P8 (mmcex), Time: 0,09355 s., Entries: 4
+P10 (mmcex), Time: 0,09499 s., Entries: 4
+P1 (deg), Time: 0,12779 s., Entries: 172
+P15 (mmcex), Time: 0,08290 s., Entries: 4
+P2 (mmcex), Time: 0,07479 s., Entries: 4
+P13 (mmcex), Time: 0,06173 s., Entries: 4
+P5 (deg), Time: 0,07342 s., Entries: 53
+P3 (mmcex), Time: 0,09848 s., Entries: 4
+P6 (deg), Time: 0,13408 s., Entries: 5
+P11 (deg), Time: 0,12714 s., Entries: 5
+P4 (mmex), Time: 0,25270 s., Entries: 4
+P0 (mmex), Time: 0,25562 s., Entries: 4
+P14 (dom), Time: 0,26151 s., Entries: 1
+P7 (dom), Time: 0,34124 s., Entries: 1
+P12 (dom), Time: 0,33024 s., Entries: 1
+P9 (dom), Time: 0,34389 s., Entries: 1
+Solution - P1 (deg)
+Total time: 0,35162 s.
+P7 (mmcex), Time: 0,06515 s., Entries: 4
+P1 (mmcex), Time: 0,08157 s., Entries: 4
+P3 (deg), Time: 0,09957 s., Entries: 166
+P8 (deg), Time: 0,06592 s., Entries: 9
+P9 (mmcex), Time: 0,07149 s., Entries: 4
+P11 (mmcex), Time: 0,07640 s., Entries: 4
+P15 (mmcex), Time: 0,07871 s., Entries: 4
+P13 (deg), Time: 0,04033 s., Entries: 5
+P10 (mmex), Time: 0,22017 s., Entries: 4
+P14 (mmex), Time: 0,19053 s., Entries: 4
+P2 (mmex), Time: 0,22707 s., Entries: 4
+P12 (mmex), Time: 0,21976 s., Entries: 4
+P5 (mmex), Time: 0,23813 s., Entries: 4
+P6 (dom), Time: 0,33081 s., Entries: 1
+P0 (dom), Time: 0,35776 s., Entries: 1
+P4 (dom), Time: 0,35367 s., Entries: 1
+Solution - P3 (deg)
+Total time: 0,36233 s.
+P15 (deg), Time: 0,06012 s., Entries: 5
+P0 (deg), Time: 0,10245 s., Entries: 172
+P9 (mmcex), Time: 0,08354 s., Entries: 4
+P10 (deg), Time: 0,09191 s., Entries: 5
+P12 (deg), Time: 0,05267 s., Entries: 5
+P11 (mmcex), Time: 0,09297 s., Entries: 7
+P5 (mmcex), Time: 0,09951 s., Entries: 8
+P7 (mmcex), Time: 0,10016 s., Entries: 7
+P6 (mmex), Time: 0,22884 s., Entries: 4
+P4 (mmex), Time: 0,23810 s., Entries: 4
+P1 (mmex), Time: 0,24099 s., Entries: 4
+P14 (mmex), Time: 0,22255 s., Entries: 4
+P13 (mmex), Time: 0,24184 s., Entries: 4
+P2 (dom), Time: 0,32583 s., Entries: 1
+P3 (dom), Time: 0,33114 s., Entries: 1
+P8 (dom), Time: 0,32932 s., Entries: 1
+Solution - P0 (deg)
+Total time: 0,34309 s.
+==========
+
+
+==========
+Sample no. 5 basic, k = 4, p = 16
+P15 (mmcex), Time: 0,15020 s., Entries: 9
+P6 (deg), Time: 0,13200 s., Entries: 83
+P13 (mmcex), Time: 0,22748 s., Entries: 23
+P12 (dom), Time: 0,47668 s., Entries: 1
+P7 (dom), Time: 0,48322 s., Entries: 1
+P14 (mmex), Time: 0,59340 s., Entries: 5
+P11 (dom), Time: 0,61315 s., Entries: 1
+P10 (mmex), Time: 0,65085 s., Entries: 5
+P2 (deg), Time: 0,71194 s., Entries: 34157
+P3 (mmex), Time: 0,74958 s., Entries: 10
+P4 (deg), Time: 0,79256 s., Entries: 38081
+P8 (deg), Time: 0,80356 s., Entries: 39633
+P9 (mmex), Time: 0,80455 s., Entries: 15
+P5 (mmex), Time: 0,82506 s., Entries: 22
+P1 (mmex), Time: 0,90047 s., Entries: 42
+P0 (dom), Time: 0,96315 s., Entries: 3
+Solution - P1 (mmex)
+Total time: 0,96791 s.
+P7 (deg), Time: 0,11845 s., Entries: 83
+P10 (deg), Time: 0,11685 s., Entries: 101
+P15 (mmcex), Time: 0,10531 s., Entries: 9
+P5 (mmcex), Time: 0,22427 s., Entries: 55
+P4 (deg), Time: 0,22562 s., Entries: 3269
+P9 (deg), Time: 0,23244 s., Entries: 3469
+P1 (deg), Time: 0,23677 s., Entries: 1167
+P3 (mmex), Time: 0,32737 s., Entries: 5
+P12 (mmex), Time: 0,32120 s., Entries: 5
+P11 (mmex), Time: 0,32548 s., Entries: 5
+P14 (mmex), Time: 0,33368 s., Entries: 5
+P13 (dom), Time: 0,37947 s., Entries: 1
+P6 (dom), Time: 0,41807 s., Entries: 1
+P0 (dom), Time: 0,42662 s., Entries: 1
+P2 (dom), Time: 0,42708 s., Entries: 1
+P8 (dom), Time: 0,45539 s., Entries: 1
+Solution - P1 (deg)
+Total time: 0,46471 s.
+P14 (deg), Time: 0,10251 s., Entries: 9
+P13 (deg), Time: 0,05826 s., Entries: 173
+P11 (deg), Time: 0,09695 s., Entries: 101
+P15 (mmcex), Time: 0,10282 s., Entries: 6
+P6 (mmcex), Time: 0,20317 s., Entries: 23
+P1 (mmcex), Time: 0,21160 s., Entries: 100
+P9 (mmcex), Time: 0,20775 s., Entries: 41
+P2 (mmcex), Time: 0,21269 s., Entries: 41
+P8 (mmex), Time: 0,30008 s., Entries: 5
+P7 (mmex), Time: 0,30874 s., Entries: 5
+P5 (mmex), Time: 0,32511 s., Entries: 5
+P12 (dom), Time: 0,34433 s., Entries: 1
+P10 (dom), Time: 0,34716 s., Entries: 1
+P0 (dom), Time: 0,39139 s., Entries: 1
+P4 (dom), Time: 0,38958 s., Entries: 1
+P3 (dom), Time: 0,39323 s., Entries: 1
+Solution - P1 (mmcex)
+Total time: 0,39921 s.
+P15 (deg), Time: 0,11215 s., Entries: 9
+P7 (mmcex), Time: 0,22612 s., Entries: 23
+P10 (mmcex), Time: 0,22724 s., Entries: 23
+P2 (mmcex), Time: 0,24014 s., Entries: 55
+P3 (deg), Time: 0,23916 s., Entries: 6661
+P12 (mmcex), Time: 0,23294 s., Entries: 23
+P9 (mmcex), Time: 0,24055 s., Entries: 55
+P8 (deg), Time: 0,24059 s., Entries: 4916
+P5 (deg), Time: 0,24924 s., Entries: 5164
+P0 (mmcex), Time: 0,25304 s., Entries: 100
+P13 (mmex), Time: 0,32506 s., Entries: 5
+P4 (mmex), Time: 0,34262 s., Entries: 5
+P14 (mmex), Time: 0,30559 s., Entries: 5
+P11 (dom), Time: 0,40011 s., Entries: 1
+P6 (dom), Time: 0,40527 s., Entries: 1
+P1 (dom), Time: 0,42133 s., Entries: 1
+Solution - P0 (mmcex)
+Total time: 0,42645 s.
+P10 (mmcex), Time: 0,13842 s., Entries: 6
+P6 (mmcex), Time: 0,13890 s., Entries: 6
+P11 (deg), Time: 0,11488 s., Entries: 101
+P14 (mmcex), Time: 0,09685 s., Entries: 6
+P7 (deg), Time: 0,11738 s., Entries: 83
+P15 (deg), Time: 0,09299 s., Entries: 9
+P9 (deg), Time: 0,19771 s., Entries: 3753
+P1 (deg), Time: 0,20614 s., Entries: 1167
+P13 (mmcex), Time: 0,20247 s., Entries: 11
+P5 (mmcex), Time: 0,21190 s., Entries: 23
+P2 (mmcex), Time: 0,21473 s., Entries: 21
+P4 (mmex), Time: 0,31562 s., Entries: 5
+P0 (mmex), Time: 0,33588 s., Entries: 5
+P12 (dom), Time: 0,36787 s., Entries: 1
+P3 (dom), Time: 0,41719 s., Entries: 1
+P8 (dom), Time: 0,42017 s., Entries: 1
+Solution - P1 (deg)
+Total time: 0,42912 s.
+==========
+
+
+==========
+Sample no. 5 inverse, k = 4, p = 16
+P15 (deg), Time: 0,16813 s., Entries: 1987
+P6 (deg), Time: 0,20455 s., Entries: 3145
+P5 (deg), Time: 0,17532 s., Entries: 1286
+P1 (deg), Time: 0,17448 s., Entries: 3054
+P10 (deg), Time: 0,16552 s., Entries: 2198
+P14 (mmex), Time: 0,21437 s., Entries: 8
+P12 (mmex), Time: 0,19696 s., Entries: 6
+P2 (mmex), Time: 0,27151 s., Entries: 9
+P8 (mmex), Time: 0,28303 s., Entries: 9
+P4 (mmex), Time: 0,28727 s., Entries: 9
+P3 (dom), Time: 14,28145 s., Entries: 1
+P0 (dom), Time: 14,44583 s., Entries: 1
+P9 (dom), Time: 14,47951 s., Entries: 1
+P11 (dom), Time: 65,44753 s., Entries: 2
+P7 (dom), Time: 65,73347 s., Entries: 2
+P13 (dom), Time: 69,08674 s., Entries: 2
+Solution - P6 (deg)
+Total time: 69,10639 s.
+P13 (deg), Time: 0,20732 s., Entries: 2423
+P2 (mmex), Time: 0,21802 s., Entries: 9
+P9 (deg), Time: 0,18385 s., Entries: 3525
+P11 (mmex), Time: 0,20137 s., Entries: 11
+P0 (mmcex), Time: 0,20439 s., Entries: 7
+P14 (mmcex), Time: 0,18942 s., Entries: 7
+P1 (deg), Time: 0,19089 s., Entries: 3483
+P7 (deg), Time: 0,18625 s., Entries: 1794
+P4 (deg), Time: 0,18863 s., Entries: 3985
+P6 (mmcex), Time: 0,22015 s., Entries: 7
+P5 (mmcex), Time: 0,22630 s., Entries: 7
+P12 (mmcex), Time: 0,21793 s., Entries: 7
+P10 (mmcex), Time: 0,22772 s., Entries: 7
+P8 (mmcex), Time: 0,23358 s., Entries: 7
+P3 (dom), Time: 15,38363 s., Entries: 1
+P15 (dom), Time: 98,22624 s., Entries: 2
+Solution - P13 (deg)
+Total time: 98,23885 s.
+P8 (deg), Time: 0,41064 s., Entries: 15089
+P1 (deg), Time: 0,47414 s., Entries: 17621
+P2 (mmex), Time: 0,47401 s., Entries: 95
+P5 (deg), Time: 0,47701 s., Entries: 16171
+P4 (mmex), Time: 0,48044 s., Entries: 98
+P15 (deg), Time: 0,48390 s., Entries: 11853
+P11 (mmex), Time: 0,48301 s., Entries: 99
+P14 (mmcex), Time: 0,48502 s., Entries: 13
+P13 (mmex), Time: 0,47832 s., Entries: 111
+P3 (mmcex), Time: 0,49834 s., Entries: 15
+P7 (mmcex), Time: 0,50318 s., Entries: 20
+P12 (mmcex), Time: 0,49527 s., Entries: 15
+P9 (dom), Time: 15,36488 s., Entries: 1
+P0 (dom), Time: 15,73760 s., Entries: 1
+P10 (dom), Time: 67,68430 s., Entries: 2
+P6 (dom), Time: 70,81998 s., Entries: 2
+Solution - P15 (deg)
+Total time: 70,82847 s.
+P10 (mmex), Time: 0,16616 s., Entries: 3
+P5 (deg), Time: 0,16066 s., Entries: 3277
+P15 (mmex), Time: 0,17296 s., Entries: 8
+P13 (deg), Time: 0,18020 s., Entries: 2423
+P2 (deg), Time: 0,15804 s., Entries: 2049
+P3 (mmex), Time: 0,20661 s., Entries: 9
+P14 (mmcex), Time: 0,22003 s., Entries: 7
+P4 (mmcex), Time: 0,22505 s., Entries: 7
+P9 (mmcex), Time: 0,22486 s., Entries: 7
+P0 (mmcex), Time: 0,23564 s., Entries: 7
+P6 (mmcex), Time: 0,23985 s., Entries: 7
+P11 (mmcex), Time: 0,23932 s., Entries: 7
+P8 (dom), Time: 15,51241 s., Entries: 1
+P1 (dom), Time: 15,70475 s., Entries: 1
+P7 (dom), Time: 69,07958 s., Entries: 2
+P12 (dom), Time: 69,17075 s., Entries: 2
+Solution - P13 (deg)
+Total time: 69,18051 s.
+P10 (deg), Time: 0,19765 s., Entries: 2379
+P13 (mmex), Time: 0,18160 s., Entries: 6
+P7 (deg), Time: 0,17209 s., Entries: 2628
+P4 (deg), Time: 0,17327 s., Entries: 3483
+P14 (mmex), Time: 0,21836 s., Entries: 8
+P12 (mmcex), Time: 0,22369 s., Entries: 7
+P11 (mmcex), Time: 0,22352 s., Entries: 7
+P5 (mmcex), Time: 0,22693 s., Entries: 7
+P0 (mmcex), Time: 0,23182 s., Entries: 7
+P8 (mmcex), Time: 0,23063 s., Entries: 7
+P3 (mmex), Time: 0,26646 s., Entries: 9
+P2 (mmex), Time: 0,26840 s., Entries: 9
+P9 (dom), Time: 15,40310 s., Entries: 1
+P1 (dom), Time: 15,48201 s., Entries: 1
+P6 (dom), Time: 69,47748 s., Entries: 2
+P15 (dom), Time: 101,79199 s., Entries: 2
+Solution - P10 (deg)
+Total time: 101,80188 s.
+==========
+
+
+==========
+Sample no. 6 basic, k = 3, p = 16
+P12 (mmex), Time: 0,00705 s., Entries: 4
+P6 (mmex), Time: 0,00635 s., Entries: 4
+P14 (mmcex), Time: 0,00002 s., Entries: 2
+P3 (deg), Time: 0,02994 s., Entries: 27
+P10 (mmcex), Time: 0,00412 s., Entries: 4
+P9 (mmex), Time: 0,00522 s., Entries: 4
+P11 (dom), Time: 0,02183 s., Entries: 1
+P0 (dom), Time: 0,03296 s., Entries: 1
+P1 (mmex), Time: 0,00732 s., Entries: 4
+P4 (dom), Time: 0,01659 s., Entries: 1
+P2 (mmcex), Time: 0,00682 s., Entries: 8
+P7 (deg), Time: 0,00119 s., Entries: 13
+P13 (dom), Time: 0,00351 s., Entries: 1
+P5 (mmcex), Time: 0,00340 s., Entries: 4
+P8 (deg), Time: 0,00486 s., Entries: 10
+P15 (deg), Time: 0,00024 s., Entries: 4
+Solution - P3 (deg)
+Total time: 0,03938 s.
+P8 (dom), Time: 0,02270 s., Entries: 1
+P4 (dom), Time: 0,02659 s., Entries: 1
+P10 (mmex), Time: 0,01280 s., Entries: 4
+P6 (deg), Time: 0,00201 s., Entries: 13
+P12 (mmex), Time: 0,01143 s., Entries: 4
+P3 (deg), Time: 0,03277 s., Entries: 27
+P1 (mmex), Time: 0,01533 s., Entries: 13
+P15 (dom), Time: 0,00877 s., Entries: 1
+P11 (deg), Time: 0,00024 s., Entries: 4
+P5 (mmex), Time: 0,00558 s., Entries: 4
+P2 (mmcex), Time: 0,01412 s., Entries: 13
+P14 (deg), Time: 0,00034 s., Entries: 7
+P7 (mmcex), Time: 0,00350 s., Entries: 4
+P0 (dom), Time: 0,03849 s., Entries: 1
+P13 (mmcex), Time: 0,00795 s., Entries: 4
+P9 (mmcex), Time: 0,01151 s., Entries: 9
+Solution - P3 (deg)
+Total time: 0,04721 s.
+P14 (deg), Time: 0,00053 s., Entries: 4
+P15 (dom), Time: 0,00724 s., Entries: 1
+P1 (mmex), Time: 0,01464 s., Entries: 4
+P6 (mmex), Time: 0,00909 s., Entries: 4
+P10 (mmex), Time: 0,00790 s., Entries: 4
+P11 (dom), Time: 0,03560 s., Entries: 1
+P7 (mmcex), Time: 0,00965 s., Entries: 4
+P4 (dom), Time: 0,03451 s., Entries: 1
+P9 (mmcex), Time: 0,01168 s., Entries: 4
+P5 (deg), Time: 0,00506 s., Entries: 4
+P13 (mmcex), Time: 0,00636 s., Entries: 4
+P8 (deg), Time: 0,00318 s., Entries: 19
+P12 (mmex), Time: 0,01336 s., Entries: 4
+P3 (mmcex), Time: 0,01281 s., Entries: 4
+P0 (deg), Time: 0,04090 s., Entries: 27
+P2 (dom), Time: 0,04274 s., Entries: 1
+Solution - P0 (deg)
+Total time: 0,04757 s.
+P8 (mmex), Time: 0,00922 s., Entries: 4
+P13 (mmcex), Time: 0,00006 s., Entries: 2
+P15 (mmex), Time: 0,00487 s., Entries: 4
+P10 (dom), Time: 0,02781 s., Entries: 1
+P7 (mmex), Time: 0,00775 s., Entries: 4
+P5 (dom), Time: 0,02997 s., Entries: 1
+P14 (dom), Time: 0,00006 s., Entries: 1
+P9 (mmcex), Time: 0,00455 s., Entries: 4
+P2 (mmex), Time: 0,00884 s., Entries: 4
+P6 (deg), Time: 0,00181 s., Entries: 13
+P0 (mmcex), Time: 0,01107 s., Entries: 8
+P4 (mmcex), Time: 0,00775 s., Entries: 4
+P3 (dom), Time: 0,03860 s., Entries: 1
+P12 (deg), Time: 0,00040 s., Entries: 4
+P1 (deg), Time: 0,03891 s., Entries: 27
+P11 (deg), Time: 0,00051 s., Entries: 4
+Solution - P1 (deg)
+Total time: 0,04616 s.
+P15 (deg), Time: 0,00034 s., Entries: 4
+P11 (dom), Time: 0,00014 s., Entries: 1
+P13 (dom), Time: 0,00009 s., Entries: 1
+P9 (mmex), Time: 0,00846 s., Entries: 4
+P10 (deg), Time: 0,00148 s., Entries: 4
+P1 (dom), Time: 0,04576 s., Entries: 1
+P8 (mmcex), Time: 0,00682 s., Entries: 4
+P4 (mmex), Time: 0,01413 s., Entries: 4
+P5 (deg), Time: 0,00225 s., Entries: 13
+P2 (mmex), Time: 0,01260 s., Entries: 4
+P3 (mmcex), Time: 0,00918 s., Entries: 4
+P7 (mmcex), Time: 0,00573 s., Entries: 4
+P14 (mmcex), Time: 0,00004 s., Entries: 2
+P6 (dom), Time: 0,03533 s., Entries: 1
+P0 (deg), Time: 0,04922 s., Entries: 27
+P12 (mmex), Time: 0,01074 s., Entries: 4
+Solution - P0 (deg)
+Total time: 0,05772 s.
+==========
+
+
+==========
+Sample no. 6 inverse, k = 3, p = 16
+P11 (deg), Time: 0,03263 s., Entries: 43
+P0 (dom), Time: 0,02425 s., Entries: 1
+P8 (mmex), Time: 0,00758 s., Entries: 3
+P6 (deg), Time: 0,00418 s., Entries: 33
+P1 (mmcex), Time: 0,00722 s., Entries: 5
+P7 (dom), Time: 0,02167 s., Entries: 1
+P5 (mmex), Time: 0,00785 s., Entries: 2
+P4 (mmcex), Time: 0,00564 s., Entries: 4
+P2 (deg), Time: 0,00591 s., Entries: 33
+P3 (mmex), Time: 0,00733 s., Entries: 2
+P9 (mmcex), Time: 0,00667 s., Entries: 6
+P10 (dom), Time: 0,04296 s., Entries: 2
+Solution - P11 (deg)
+Total time: 0,05390 s.
+P0 (mmex), Time: 0,00765 s., Entries: 2
+P7 (deg), Time: 0,00599 s., Entries: 33
+P4 (dom), Time: 0,02659 s., Entries: 1
+P8 (mmcex), Time: 0,01030 s., Entries: 10
+P5 (mmcex), Time: 0,01060 s., Entries: 8
+P9 (mmex), Time: 0,01109 s., Entries: 3
+P1 (mmcex), Time: 0,01019 s., Entries: 5
+P6 (mmex), Time: 0,00986 s., Entries: 4
+P3 (dom), Time: 0,02636 s., Entries: 1
+P10 (deg), Time: 0,03036 s., Entries: 43
+P2 (deg), Time: 0,00437 s., Entries: 33
+P11 (dom), Time: 0,04013 s., Entries: 2
+Solution - P10 (deg)
+Total time: 0,05036 s.
+P0 (mmex), Time: 0,01828 s., Entries: 8
+P4 (mmcex), Time: 0,00670 s., Entries: 10
+P10 (mmcex), Time: 0,00991 s., Entries: 6
+P7 (deg), Time: 0,00547 s., Entries: 33
+P1 (mmcex), Time: 0,01291 s., Entries: 12
+P2 (dom), Time: 0,02670 s., Entries: 1
+P9 (mmex), Time: 0,01224 s., Entries: 3
+P6 (mmex), Time: 0,00623 s., Entries: 4
+P3 (deg), Time: 0,00908 s., Entries: 33
+P8 (deg), Time: 0,03656 s., Entries: 43
+P5 (dom), Time: 0,02342 s., Entries: 1
+P11 (dom), Time: 0,03519 s., Entries: 2
+Solution - P8 (deg)
+Total time: 0,05066 s.
+P11 (mmex), Time: 0,01453 s., Entries: 3
+P8 (mmcex), Time: 0,01416 s., Entries: 12
+P3 (deg), Time: 0,01126 s., Entries: 33
+P6 (mmcex), Time: 0,01135 s., Entries: 8
+P4 (dom), Time: 0,02504 s., Entries: 1
+P10 (deg), Time: 0,03656 s., Entries: 43
+P0 (mmcex), Time: 0,01571 s., Entries: 12
+P2 (mmex), Time: 0,01780 s., Entries: 8
+P5 (deg), Time: 0,00801 s., Entries: 33
+P7 (mmex), Time: 0,01184 s., Entries: 4
+P1 (dom), Time: 0,02792 s., Entries: 1
+P9 (dom), Time: 0,04191 s., Entries: 2
+Solution - P10 (deg)
+Total time: 0,04960 s.
+P2 (mmcex), Time: 0,00830 s., Entries: 5
+P6 (mmcex), Time: 0,00654 s., Entries: 4
+P1 (dom), Time: 0,02915 s., Entries: 1
+P3 (mmex), Time: 0,00926 s., Entries: 2
+P4 (mmex), Time: 0,01242 s., Entries: 2
+P0 (deg), Time: 0,00470 s., Entries: 33
+P5 (deg), Time: 0,00520 s., Entries: 33
+P8 (mmcex), Time: 0,01164 s., Entries: 10
+P11 (deg), Time: 0,03482 s., Entries: 43
+P9 (mmex), Time: 0,00976 s., Entries: 3
+P7 (dom), Time: 0,02790 s., Entries: 1
+P10 (dom), Time: 0,04170 s., Entries: 2
+Solution - P11 (deg)
+Total time: 0,05244 s.
+==========
+
+
+==========
+Sample no. 7 basic, k = 4, p = 16
+P0 (dom), Time: 0,07010 s., Entries: 1
+P10 (deg), Time: 0,08653 s., Entries: 420
+P14 (deg), Time: 0,04131 s., Entries: 109
+P8 (deg), Time: 0,09114 s., Entries: 566
+P4 (deg), Time: 0,09489 s., Entries: 561
+P1 (deg), Time: 0,10097 s., Entries: 55
+P7 (mmcex), Time: 0,09670 s., Entries: 14
+P9 (mmex), Time: 0,10292 s., Entries: 3
+P3 (mmex), Time: 0,11024 s., Entries: 3
+P12 (mmex), Time: 0,09330 s., Entries: 4
+P11 (mmex), Time: 0,10910 s., Entries: 4
+P5 (dom), Time: 0,52551 s., Entries: 2
+P2 (dom), Time: 0,52978 s., Entries: 2
+P6 (dom), Time: 0,68986 s., Entries: 2
+P13 (dom), Time: 0,62835 s., Entries: 2
+P15 (dom), Time: 0,78480 s., Entries: 2
+Solution - P8 (deg)
+Total time: 0,86851 s.
+P1 (mmex), Time: 0,09792 s., Entries: 2
+P5 (deg), Time: 0,10077 s., Entries: 378
+P6 (mmex), Time: 0,11808 s., Entries: 4
+P15 (deg), Time: 0,05925 s., Entries: 274
+P10 (mmcex), Time: 0,10108 s., Entries: 14
+P0 (deg), Time: 0,10323 s., Entries: 114
+P13 (mmcex), Time: 0,11011 s., Entries: 14
+P4 (mmcex), Time: 0,12375 s., Entries: 12
+P8 (mmex), Time: 0,11307 s., Entries: 3
+P3 (mmex), Time: 0,11160 s., Entries: 3
+P12 (mmex), Time: 0,08582 s., Entries: 4
+P2 (mmcex), Time: 0,10229 s., Entries: 9
+P9 (deg), Time: 0,11863 s., Entries: 566
+P14 (mmex), Time: 0,09590 s., Entries: 5
+P7 (dom), Time: 0,64890 s., Entries: 2
+P11 (dom), Time: 0,64162 s., Entries: 2
+Solution - P9 (deg)
+Total time: 0,66101 s.
+P11 (deg), Time: 0,07243 s., Entries: 971
+P5 (deg), Time: 0,12294 s., Entries: 592
+P7 (mmcex), Time: 0,11368 s., Entries: 18
+P8 (mmcex), Time: 0,11211 s., Entries: 9
+P12 (mmcex), Time: 0,11041 s., Entries: 10
+P0 (dom), Time: 0,09288 s., Entries: 1
+P1 (mmcex), Time: 0,11864 s., Entries: 9
+P15 (mmcex), Time: 0,10348 s., Entries: 16
+P6 (mmex), Time: 0,14248 s., Entries: 4
+P4 (mmex), Time: 0,15707 s., Entries: 3
+P2 (mmex), Time: 0,16594 s., Entries: 6
+P3 (dom), Time: 0,55403 s., Entries: 2
+P9 (dom), Time: 0,56088 s., Entries: 2
+P13 (dom), Time: 0,75418 s., Entries: 2
+P10 (dom), Time: 0,77412 s., Entries: 2
+P14 (dom), Time: 0,89954 s., Entries: 2
+Solution - P5 (deg)
+Total time: 0,91318 s.
+P0 (mmcex), Time: 0,10852 s., Entries: 9
+P13 (deg), Time: 0,01075 s., Entries: 500
+P2 (deg), Time: 0,09783 s., Entries: 499
+P15 (mmcex), Time: 0,04810 s., Entries: 11
+P6 (deg), Time: 0,09838 s., Entries: 750
+P12 (mmex), Time: 0,07616 s., Entries: 4
+P10 (deg), Time: 0,08570 s., Entries: 978
+P14 (deg), Time: 0,03695 s., Entries: 580
+P5 (mmex), Time: 0,10498 s., Entries: 3
+P1 (mmex), Time: 0,10400 s., Entries: 2
+P3 (mmex), Time: 0,11268 s., Entries: 3
+P11 (mmex), Time: 0,11331 s., Entries: 4
+P8 (deg), Time: 0,12521 s., Entries: 566
+P7 (mmcex), Time: 0,10507 s., Entries: 14
+P9 (dom), Time: 0,52868 s., Entries: 2
+P4 (dom), Time: 0,53919 s., Entries: 2
+Solution - P8 (deg)
+Total time: 0,54820 s.
+P4 (mmex), Time: 0,16782 s., Entries: 3
+P0 (deg), Time: 0,15360 s., Entries: 87
+P6 (mmcex), Time: 0,16178 s., Entries: 28
+P3 (mmcex), Time: 0,16797 s., Entries: 15
+P2 (mmex), Time: 0,16794 s., Entries: 3
+P1 (mmex), Time: 0,17917 s., Entries: 4
+P12 (deg), Time: 0,14507 s., Entries: 969
+P14 (deg), Time: 0,13099 s., Entries: 1521
+P11 (mmcex), Time: 0,12345 s., Entries: 14
+P5 (mmcex), Time: 0,15356 s., Entries: 15
+P9 (mmex), Time: 0,18656 s., Entries: 3
+P8 (dom), Time: 0,60009 s., Entries: 2
+P7 (dom), Time: 0,77131 s., Entries: 2
+P13 (dom), Time: 0,76037 s., Entries: 2
+P10 (dom), Time: 0,79846 s., Entries: 2
+P15 (dom), Time: 0,97010 s., Entries: 2
+Solution - P12 (deg)
+Total time: 1,01536 s.
+==========
+
+
+==========
+Sample no. 7 inverse, k = 4, p = 16
+P14 (mmcex), Time: 0,20829 s., Entries: 9
+P15 (deg), Time: 0,18793 s., Entries: 15
+P13 (mmcex), Time: 0,32688 s., Entries: 37
+P12 (deg), Time: 0,33496 s., Entries: 2075
+P10 (mmex), Time: 0,46825 s., Entries: 887
+P7 (mmex), Time: 0,49250 s., Entries: 847
+P2 (mmcex), Time: 0,50027 s., Entries: 107
+P5 (mmex), Time: 0,49286 s., Entries: 387
+P9 (mmcex), Time: 0,48204 s., Entries: 101
+P8 (deg), Time: 0,49172 s., Entries: 10335
+P4 (deg), Time: 0,49899 s., Entries: 10281
+P6 (deg), Time: 0,49165 s., Entries: 8604
+P0 (deg), Time: 0,50158 s., Entries: 8227
+P3 (mmcex), Time: 0,51287 s., Entries: 139
+P11 (dom), Time: 0,78255 s., Entries: 1
+P1 (dom), Time: 0,89152 s., Entries: 1
+Solution - P3 (mmcex)
+Total time: 0,89681 s.
+P14 (deg), Time: 0,14138 s., Entries: 15
+P15 (dom), Time: 0,41810 s., Entries: 1
+P10 (deg), Time: 0,62940 s., Entries: 9422
+P13 (deg), Time: 0,65145 s., Entries: 9994
+P9 (deg), Time: 0,65586 s., Entries: 15291
+P6 (deg), Time: 0,65754 s., Entries: 10279
+P11 (mmex), Time: 0,64964 s., Entries: 900
+P2 (mmcex), Time: 0,66597 s., Entries: 139
+P3 (mmcex), Time: 0,66629 s., Entries: 108
+P4 (mmex), Time: 0,66692 s., Entries: 401
+P1 (mmex), Time: 0,67060 s., Entries: 445
+P7 (dom), Time: 0,78667 s., Entries: 1
+P12 (dom), Time: 0,78871 s., Entries: 1
+P8 (dom), Time: 0,87871 s., Entries: 1
+P5 (dom), Time: 0,89457 s., Entries: 1
+P0 (dom), Time: 0,97276 s., Entries: 1
+Solution - P2 (mmcex)
+Total time: 0,97702 s.
+P14 (mmcex), Time: 0,45030 s., Entries: 15
+P12 (mmcex), Time: 0,44299 s., Entries: 37
+P11 (mmcex), Time: 0,47545 s., Entries: 37
+P13 (deg), Time: 0,45968 s., Entries: 4829
+P15 (dom), Time: 0,47803 s., Entries: 1
+P4 (deg), Time: 0,65698 s., Entries: 12805
+P0 (deg), Time: 0,66322 s., Entries: 13555
+P7 (deg), Time: 0,65118 s., Entries: 11743
+P1 (mmcex), Time: 0,66251 s., Entries: 139
+P5 (mmex), Time: 0,65695 s., Entries: 426
+P6 (mmex), Time: 0,65758 s., Entries: 946
+P8 (mmex), Time: 0,65687 s., Entries: 421
+P10 (dom), Time: 0,83091 s., Entries: 1
+P2 (dom), Time: 0,89687 s., Entries: 1
+P9 (dom), Time: 0,89659 s., Entries: 1
+P3 (dom), Time: 0,91240 s., Entries: 1
+Solution - P1 (mmcex)
+Total time: 0,91799 s.
+P15 (deg), Time: 0,09429 s., Entries: 15
+P14 (mmex), Time: 0,18744 s., Entries: 5
+P13 (mmcex), Time: 0,43116 s., Entries: 37
+P12 (mmex), Time: 0,46208 s., Entries: 124
+P11 (mmcex), Time: 0,49293 s., Entries: 37
+P10 (mmex), Time: 0,49524 s., Entries: 164
+P4 (deg), Time: 0,53440 s., Entries: 16443
+P6 (deg), Time: 0,53366 s., Entries: 10672
+P2 (mmex), Time: 0,53896 s., Entries: 210
+P5 (mmcex), Time: 0,53465 s., Entries: 139
+P7 (mmex), Time: 0,53421 s., Entries: 342
+P9 (mmcex), Time: 0,53424 s., Entries: 82
+P0 (mmcex), Time: 0,54500 s., Entries: 103
+P3 (dom), Time: 0,82091 s., Entries: 1
+P1 (dom), Time: 0,84230 s., Entries: 1
+P8 (dom), Time: 0,84220 s., Entries: 1
+Solution - P5 (mmcex)
+Total time: 0,85462 s.
+P7 (mmcex), Time: 0,45158 s., Entries: 37
+P6 (deg), Time: 0,45180 s., Entries: 5903
+P15 (mmcex), Time: 0,40582 s., Entries: 15
+P10 (mmcex), Time: 0,44073 s., Entries: 37
+P11 (mmex), Time: 0,44049 s., Entries: 24
+P14 (dom), Time: 0,45407 s., Entries: 1
+P9 (deg), Time: 0,55254 s., Entries: 15284
+P12 (deg), Time: 0,55036 s., Entries: 10272
+P5 (mmcex), Time: 0,55736 s., Entries: 100
+P0 (mmcex), Time: 0,56362 s., Entries: 139
+P8 (mmex), Time: 0,55386 s., Entries: 282
+P3 (mmex), Time: 0,56344 s., Entries: 277
+P2 (mmex), Time: 0,56387 s., Entries: 232
+P13 (dom), Time: 0,73450 s., Entries: 1
+P1 (dom), Time: 0,82453 s., Entries: 1
+P4 (dom), Time: 0,84915 s., Entries: 1
+Solution - P0 (mmcex)
+Total time: 0,85836 s.
+==========
+
+
